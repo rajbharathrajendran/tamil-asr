@@ -1,0 +1,50 @@
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test_feb89/wav_test_feb89.2.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_feb89.2.ark,/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_feb89.2.scp 
+# Started at Sat Sep 10 03:54:17 PDT 2016
+#
+compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test_feb89/wav_test_feb89.2.scp ark:- 
+copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_feb89.2.ark,/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_feb89.2.scp 
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st0596_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st0676_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st0778_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st0865_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st0954_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1019_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1099_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1166_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1236_feb89
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:177) Processed 10 utterances
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1323_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1390_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1456_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1521_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1583_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1677_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1750_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1826_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1890_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st1978_feb89
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:177) Processed 20 utterances
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st2062_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st2105_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dml01_st2178_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0063_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0150_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0206_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0292_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0367_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0437_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0505_feb89
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:177) Processed 30 utterances
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0577_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0646_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0729_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0822_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0925_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st0997_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st1055_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st1139_feb89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key dwa05_st1211_feb89
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:181)  Done 38 out of 38 utterances.
+LOG (copy-feats:main():copy-feats.cc:120) Copied 38 feature matrices.
+# Accounting: time=2 threads=1
+# Ended (code 0) at Sat Sep 10 03:54:19 PDT 2016, elapsed time 2 seconds

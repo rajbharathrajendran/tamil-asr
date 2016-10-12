@@ -1,0 +1,44 @@
+# gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/tri1/graph/words.txt exp/tri1/final.mdl exp/tri1/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split1/1/utt2spk scp:data/test/split1/1/cmvn.scp scp:data/test/split1/1/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/tri1/decode/lat.1.gz" 
+# Started at Wed Oct 12 01:19:12 PDT 2016
+#
+gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/tri1/graph/words.txt exp/tri1/final.mdl exp/tri1/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split1/1/utt2spk scp:data/test/split1/1/cmvn.scp scp:data/test/split1/1/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/tri1/decode/lat.1.gz' 
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split1/1/utt2spk scp:data/test/split1/1/cmvn.scp scp:data/test/split1/1/feats.scp ark:- 
+ERROR (apply-cmvn:Read():kaldi-matrix.cc:1446) Failed to read matrix from stream.  : Expected "[", got "M" File position at start is 17, currently 18
+
+[ Stack-Trace: ]
+apply-cmvn() [0x510746]
+kaldi::MessageLogger::HandleMessage(kaldi::LogMessageEnvelope const&, char const*)
+kaldi::MessageLogger::~MessageLogger()
+kaldi::Matrix<float>::Read(std::istream&, bool, bool)
+kaldi::KaldiObjectHolder<kaldi::Matrix<float> >::Read(std::istream&)
+kaldi::SequentialTableReaderScriptImpl<kaldi::KaldiObjectHolder<kaldi::Matrix<float> > >::EnsureObjectLoaded()
+kaldi::SequentialTableReaderScriptImpl<kaldi::KaldiObjectHolder<kaldi::Matrix<float> > >::Value()
+kaldi::SequentialTableReader<kaldi::KaldiObjectHolder<kaldi::Matrix<float> > >::Value()
+main
+__libc_start_main
+apply-cmvn() [0x466419]
+
+WARNING (apply-cmvn:Read():util/kaldi-holder-inl.h:82) Exception caught reading Table object. 
+WARNING (apply-cmvn:EnsureObjectLoaded():util/kaldi-table-inl.h:317) Failed to load object from /home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/data/test/data/raw_mfcc_test.3.ark:17
+ERROR (apply-cmvn:Value():util/kaldi-table-inl.h:164) Failed to load object from /home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/data/test/data/raw_mfcc_test.3.ark:17 (to suppress this error, add the permissive (p, ) option to the rspecifier.
+
+[ Stack-Trace: ]
+apply-cmvn() [0x510746]
+kaldi::MessageLogger::HandleMessage(kaldi::LogMessageEnvelope const&, char const*)
+kaldi::MessageLogger::~MessageLogger()
+kaldi::SequentialTableReaderScriptImpl<kaldi::KaldiObjectHolder<kaldi::Matrix<float> > >::Value()
+kaldi::SequentialTableReader<kaldi::KaldiObjectHolder<kaldi::Matrix<float> > >::Value()
+main
+__libc_start_main
+apply-cmvn() [0x466419]
+
+raj_1_2_5 ஒரு இரண்டு ஐந்து 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance raj_1_2_5 is -7.40887 over 478 frames.
+ranjini_1_2_3 ஒரு இரண்டு மூன்று 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance ranjini_1_2_3 is -7.56545 over 310 frames.
+LOG (gmm-latgen-faster:main():gmm-latgen-faster.cc:176) Time taken 0.13209s: real-time factor assuming 100 frames/sec is 0.0167627
+LOG (gmm-latgen-faster:main():gmm-latgen-faster.cc:179) Done 2 utterances, failed for 0
+LOG (gmm-latgen-faster:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -7.47047 over 788 frames.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Wed Oct 12 01:19:12 PDT 2016, elapsed time 0 seconds

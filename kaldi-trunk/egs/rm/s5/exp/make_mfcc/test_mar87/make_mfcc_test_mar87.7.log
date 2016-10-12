@@ -1,0 +1,22 @@
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test_mar87/wav_test_mar87.7.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_mar87.7.ark,/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_mar87.7.scp 
+# Started at Sat Sep 10 03:54:13 PDT 2016
+#
+compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test_mar87/wav_test_mar87.7.scp ark:- 
+copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_mar87.7.ark,/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_mar87.7.scp 
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfc06_st1177_mar87
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfc06_st1267_mar87
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfc06_st1326_mar87
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfc06_st1405_mar87
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfr07_st0776_mar87
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfr07_st0858_mar87
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfr07_st0921_mar87
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfr07_st0983_mar87
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfr07_st1063_mar87
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:177) Processed 10 utterances
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfr07_st1110_mar87
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfr07_st1201_mar87
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key jfr07_st1280_mar87
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:181)  Done 12 out of 12 utterances.
+LOG (copy-feats:main():copy-feats.cc:120) Copied 12 feature matrices.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Sat Sep 10 03:54:13 PDT 2016, elapsed time 0 seconds

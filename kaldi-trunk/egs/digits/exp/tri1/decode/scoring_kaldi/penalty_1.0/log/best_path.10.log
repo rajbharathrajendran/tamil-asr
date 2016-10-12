@@ -1,0 +1,30 @@
+# lattice-scale --inv-acoustic-scale=10 "ark:gunzip -c exp/tri1/decode/lat.*.gz|" ark:- | lattice-add-penalty --word-ins-penalty=1.0 ark:- ark:- | lattice-best-path --word-symbol-table=exp/tri1/graph/words.txt ark:- ark,t:- | utils/int2sym.pl -f 2- exp/tri1/graph/words.txt | cat > exp/tri1/decode/scoring_kaldi/penalty_1.0/10.txt 
+# Started at Wed Oct 12 03:21:22 PDT 2016
+#
+lattice-scale --inv-acoustic-scale=10 'ark:gunzip -c exp/tri1/decode/lat.*.gz|' ark:- 
+lattice-add-penalty --word-ins-penalty=1.0 ark:- ark:- 
+lattice-best-path --word-symbol-table=exp/tri1/graph/words.txt ark:- ark,t:- 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance raj_1_2_5, best cost 27.8911 + 4159.21 = 4187.1 over 478 frames.
+raj_1_2_5 ஆறு எட்டு மூன்று 
+LOG (lattice-scale:main():lattice-scale.cc:90) Done 9 lattices.
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance raj_9_3_4, best cost 27.2068 + 4699.79 = 4727 over 542 frames.
+raj_9_3_4 ஏழு எட்டு ஒன்பது 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance ranjini_1_2_3, best cost 29.0315 + 2810.5 = 2839.53 over 310 frames.
+ranjini_1_2_3 ஐந்து ஒன்பது மூன்று 
+LOG (lattice-add-penalty:main():lattice-add-penalty.cc:62) Done adding word insertion penalty to 9 lattices.
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance ranjini_22_23_24, best cost 38.8063 + 5168.72 = 5207.52 over 486 frames.
+ranjini_22_23_24 ஒரு ஐந்து மூன்று ஐந்து ஐந்து 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance ranjini_4_8_7, best cost 30.7378 + 3112.96 = 3143.7 over 342 frames.
+ranjini_4_8_7 ஒன்பது மூன்று ஐந்து 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance ranjini_5_9_3, best cost 19.6131 + 2894.99 = 2914.61 over 326 frames.
+ranjini_5_9_3 ஒன்பது மூன்று 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance ranjini_9_3_5, best cost 31.6245 + 2998.78 = 3030.41 over 326 frames.
+ranjini_9_3_5 ஒரு இரண்டு மூன்று 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance sindhu_3_5_1, best cost 27.416 + 2884.73 = 2912.15 over 318 frames.
+sindhu_3_5_1 நான்கு இரண்டு எட்டு 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance sindhu_4_2_8, best cost 23.9751 + 2860.96 = 2884.94 over 318 frames.
+sindhu_4_2_8 நான்கு ஏழு 
+LOG (lattice-best-path:main():lattice-best-path.cc:124) Overall cost per frame is 9.24172 = 0.0743768 [graph] + 9.16734 [acoustic] over 3446 frames.
+LOG (lattice-best-path:main():lattice-best-path.cc:128) Done 9 lattices, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Wed Oct 12 03:21:22 PDT 2016, elapsed time 0 seconds

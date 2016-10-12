@@ -1,0 +1,50 @@
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test_oct89/wav_test_oct89.4.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_oct89.4.ark,/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_oct89.4.scp 
+# Started at Sat Sep 10 03:54:21 PDT 2016
+#
+copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_oct89.4.ark,/home/rb/Documents/ICT/speech_recognition/featdir/rm_mfccdir/raw_mfcc_test_oct89.4.scp 
+compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test_oct89/wav_test_oct89.4.scp ark:- 
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key cew02_st1830_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key cew02_st1896_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key cew02_st1985_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key cew02_st2064_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key cew02_st2107_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key cew02_st2180_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0049_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0122_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0182_oct89
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:177) Processed 10 utterances
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0276_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0343_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0421_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0490_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0554_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0623_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0705_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0799_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0899_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st0988_oct89
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:177) Processed 20 utterances
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1041_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1127_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1185_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1270_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1346_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1419_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1474_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1548_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1613_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1707_oct89
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:177) Processed 30 utterances
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1771_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1849_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st1923_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st2003_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st2077_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st2147_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key crz07_st2204_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key ctw03_st0016_oct89
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key ctw03_st0085_oct89
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:181)  Done 38 out of 38 utterances.
+LOG (copy-feats:main():copy-feats.cc:120) Copied 38 feature matrices.
+# Accounting: time=3 threads=1
+# Ended (code 0) at Sat Sep 10 03:54:24 PDT 2016, elapsed time 3 seconds

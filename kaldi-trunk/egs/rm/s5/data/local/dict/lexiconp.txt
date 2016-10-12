@@ -1,0 +1,992 @@
+A               1.0	ax 
+A42128          1.0	ey f ao r t uw w ah n t uw ey td 
+AAW             1.0	ey ey d ah b y uw 
+ABERDEEN        1.0	ae b er d iy n 
+ABOARD          1.0	ax b ao r dd 
+ABOVE           1.0	ax b ah v 
+ADD             1.0	ae dd 
+ADDED           1.0	ae dx ax dd 
+ADDING          1.0	ae dx ih ng 
+AFFECT          1.0	ax f eh kd 
+AFTER           1.0	ae f t er 
+AGAIN           1.0	ax g eh n 
+AJAX            1.0	ey dd jh ae k s 
+AJAX+S          1.0	ey dd jh ae k s ax z 
+ALASKA          1.0	ax l ae s k ax 
+ALERT           1.0	ax l er td 
+ALERTS          1.0	ax l er ts 
+ALEXANDRIA      1.0	ae l ax kd z ae n d r iy ax 
+ALL             1.0	ao l 
+AN              1.0	ax n 
+ANCHORAGE       1.0	ae ng k er dd jh 
+AND             1.0	ae n 
+ANY             1.0	eh n iy 
+ANYBODY         1.0	eh n iy b ah dx iy 
+APALACHICOLA    1.0	ae p ax l ae td ch ax k ow l ax 
+APALACHICOLA+S  1.0	ae p ax l ae td ch ax k ow l ax z 
+APRIL           1.0	ey p r el 
+ARABIAN         1.0	ax r ey b iy ax n 
+ARCTIC          1.0	aa r t ax k 
+ARE             1.0	aa r 
+AREA            1.0	eh r iy ax 
+AREAS           1.0	eh r iy ax z 
+AREN+T          1.0	aa er n 
+ARKANSAS        1.0	aa r k ax n s ao 
+ARKANSAS+S      1.0	aa r k ax n s ao z 
+AROUND          1.0	ax r aw n 
+ARRIVAL         1.0	ax r ay v el 
+ARRIVE          1.0	ax r ay v 
+ARRIVED         1.0	ax r ay v dd 
+ARRIVING        1.0	ax r ay v ih ng 
+ARROW           1.0	eh r ow 
+AS              1.0	ax z 
+ASTORIA         1.0	ax s t ao r iy ax 
+ASUW            1.0	ey eh s y uw d ah b y uw 
+ASW             1.0	ey eh s d ah b y uw 
+AT              1.0	ae td 
+ATLANTIC        1.0	ax dd l ae n ax k 
+AUGUST          1.0	ao g ax s td 
+AVAILABLE       1.0	ax v ey l ax b el 
+AVERAGE         1.0	ae v er dd jh 
+BAD             1.0	b ae dd 
+BADGER          1.0	b ae dd jh er 
+BADGER+S        1.0	b ae dd jh er z 
+BAINBRIDGE      1.0	b ey n b r ih dd jh 
+BAINBRIDGE+S    1.0	b ey n b r ih dd jh ax z 
+BANGKOK         1.0	b ae ng k aa k 
+BARGE           1.0	b aa r dd jh 
+BASS            1.0	b ae s 
+BAY             1.0	b ey 
+BE              1.0	b iy 
+BEAM            1.0	b iy m 
+BEAMS           1.0	b iy m z 
+BEEN            1.0	b ih n 
+BEFORE          1.0	b ax f er 
+BELOW           1.0	b ax l ow 
+BERING          1.0	b eh r ih ng 
+BETTER          1.0	b eh dx er 
+BETWEEN         1.0	b ax t w iy n 
+BIDDLE          1.0	b ih dx el 
+BIDDLE+S        1.0	b ih dx el z 
+BISMARK         1.0	b ih z m aa r k 
+BOMBAY          1.0	b aa m b ey 
+BOTH            1.0	b ow th 
+BOX             1.0	b aa k s 
+BRIGHT          1.0	b r ay td 
+BRITISH         1.0	b r ih dx ax sh 
+BROOKE          1.0	b r uh k 
+BROOKE+S        1.0	b r uh k s 
+BRUNSWICK       1.0	b r ah n z w ax k 
+BRUNSWICK+S     1.0	b r ah n z w ax k s 
+BUD-TEST        1.0	b ah dd t eh s td 
+BUMP            1.0	b ah m p 
+BY              1.0	b ay 
+C-CODE          1.0	s iy k ow dd 
+C-CODES         1.0	s iy k ow dd z 
+C-RATING        1.0	s iy r ey dx ih ng 
+C-RATINGS       1.0	s iy r ey dx ih ng z 
+C1              1.0	s iy w ah n 
+C2              1.0	s iy t uw 
+C3              1.0	s iy th r iy 
+C4              1.0	s iy f ao r 
+C5              1.0	s iy f ay v 
+CALEDONIA       1.0	k ae l ax d ow n iy ax 
+CALIFORNIA      1.0	k ae l ax f ao r n y ax 
+CAMDEN          1.0	k ae m d ax n 
+CAMDEN+S        1.0	k ae m d ax n z 
+CAMPBELL        1.0	k ae m b el 
+CAMPBELL+S      1.0	k ae m b el z 
+CAN             1.0	k ax n 
+CANADA          1.0	k ae n ax d ax 
+CAPABILITIES    1.0	k ey p ax b ih l ax dx iy z 
+CAPABILITY      1.0	k ey p ax b ih l ax dx iy 
+CAPABLE         1.0	k ey p ax b el 
+CAPACITIES      1.0	k ax p ae s ax dx iy z 
+CAPACITY        1.0	k ax p ae s ax dx iy 
+CARRIER         1.0	k eh r iy er 
+CARRIER+S       1.0	k eh r iy er z 
+CARRIERS        1.0	k eh r iy er z 
+CARRY           1.0	k eh r iy 
+CASREP          1.0	k ae s r eh p 
+CASREPED        1.0	k ae s r eh pd t 
+CASREPS         1.0	k ae s r eh p s 
+CASUALTY        1.0	k ae sh uw ax l t iy 
+CAT-2           1.0	k ae t uw 
+CAT-3           1.0	k ae t th r iy 
+CAT-4           1.0	k ae t f ao r 
+CATEGORIES      1.0	k ae dx ax g ao r iy z 
+CATEGORY        1.0	k ae dx ax g ao r iy 
+CENTER          1.0	s eh n t er 
+CENTERED        1.0	s eh n t er dd 
+CENTERING       1.0	s eh n er ih ng 
+CEP             1.0	s iy iy p iy 
+CHANGE          1.0	td ch ey n jh 
+CHANGED         1.0	td ch ey n jh 
+CHANGING        1.0	td ch ey n jh ih ng 
+CHANNEL         1.0	td ch ae n el 
+CHART           1.0	td ch aa r td 
+CHARTS          1.0	td ch aa r ts 
+CHATTAHOOCHEE   1.0	td ch ae dx ax hh uw td ch iy 
+CHATTAHOOCHEE+S 1.0	td ch ae dx ax hh uw td ch iy z 
+CHESHIRE        1.0	td ch eh sh er 
+CHINA           1.0	td ch ay n ax 
+CHOP            1.0	td ch aa p 
+CHOPPED         1.0	td ch aa pd t 
+CHOPPING        1.0	td ch aa p ih ng 
+CIRCLE          1.0	s er k el 
+CITRUS          1.0	s ih dx er s 
+CITRUS+S        1.0	s ih dx er s ax z 
+CITY            1.0	s ih dx iy 
+CLEAR           1.0	k l iy r 
+CLEARED         1.0	k l iy r dd 
+CLEARING        1.0	k l iy r ih ng 
+CLEVELAND       1.0	k l iy v l ax n 
+CLEVELAND+S     1.0	k l iy v l ax n z 
+CLOSE           1.0	k l ow z 
+CLOSER          1.0	k l ow s er 
+CLOSEST         1.0	k l ow s ax s td 
+CODAG           1.0	k ow d ae g 
+CODE            1.0	k ow dd 
+CODES           1.0	k ow dd z 
+COLOR           1.0	k ah l er 
+COMPARED        1.0	k ax m p eh r dd 
+CONFIDENCE      1.0	k aa n f ax d ax n s 
+CONFIDENCE+S    1.0	k aa n f ax d ax n td s ax z 
+CONIFER         1.0	k aa n ax f er 
+CONIFER+S       1.0	k aa n ax f er z 
+CONQUEST        1.0	k aa ng k w eh s td 
+CONQUEST+S      1.0	k aa ng k w eh s td 
+CONSTANT        1.0	k aa n s t ax n 
+CONSTANT+S      1.0	k aa n s t ax n s 
+CONSTELLATION   1.0	k aa n s t ax l ey sh ax n 
+CONSTELLATION+S 1.0	k aa n s t ax l ey sh en z 
+CONVENTIONAL    1.0	k ax n v eh n sh ax n el 
+COOK            1.0	k uh k 
+COPELAND        1.0	k ow p l ax n 
+COPELAND+S      1.0	k ow p l ax n z 
+CORAL           1.0	k ao r el 
+COULD           1.0	k uh dd 
+COULDN+T        1.0	k uh dx ax n 
+COUNT           1.0	k aw n 
+COUNTED         1.0	k aw n ax dd 
+COUNTING        1.0	k aw n ng 
+CROVL           1.0	k r ow v el 
+CROVLS          1.0	k r ow v el z 
+CRUISER         1.0	k r uw z er 
+CRUISER+S       1.0	k r uw z er z 
+CRUISERS        1.0	k r uw z er z 
+CRUISERS+S      1.0	k r uw z er z 
+CRUISING        1.0	k r uw z ih ng 
+CURRENT         1.0	k er ax n 
+CURRENTLY       1.0	k er ax n t l iy 
+DALE            1.0	d ey l 
+DALE+S          1.0	d ey l z 
+DARWIN          1.0	d aa r w ax n 
+DATA            1.0	d ey dx ax 
+DATE            1.0	d ey td 
+DATED           1.0	d ey dx ax dd 
+DATES           1.0	d ey ts 
+DAVIDSON        1.0	d ey v ax d s ax n 
+DAVIDSON+S      1.0	d ey v ax d s en z 
+DAY             1.0	d ey 
+DAYS            1.0	d ey z 
+DDD992          1.0	d iy d iy d iy n ay n n ay n t uw 
+DECEMBER        1.0	d ax s eh m b er 
+DECREASE        1.0	d iy k r iy s 
+DECREASED       1.0	d iy k r iy s td 
+DECREASING      1.0	d iy k r iy s ih ng 
+DEFAULT         1.0	d iy f ao l 
+DEFAULTS        1.0	d iy f el ts 
+DEFINE          1.0	d ax f ay n 
+DEFINED         1.0	d ax f ay n 
+DEFINING        1.0	d ax f ay n ih ng 
+DEFINITION      1.0	d eh f ax n ih sh ax n 
+DEFINITIONS     1.0	d eh f ax n ih sh en z 
+DEGRADATION     1.0	d eh g er d ey sh ax n 
+DEGRADATIONS    1.0	d eh g er d ey sh en z 
+DEGRADE         1.0	d ax g r ey dd 
+DEGRADED        1.0	d ax g r ey dx ax dd 
+DEGRADING       1.0	d ax g r ey dx ih ng 
+DEGREES         1.0	d ax g r iy z 
+DELETE          1.0	d ax l iy td 
+DELETED         1.0	d ax l iy dx ax dd 
+DELETING        1.0	d ax l iy dx ih ng 
+DENVER          1.0	d eh n v er 
+DENVER+S        1.0	d eh n v er z 
+DEPLOYED        1.0	d ax p l oy dd 
+DEPLOYMENT      1.0	d ax p l oy m ax n 
+DEPLOYMENTS     1.0	d ax p l oy m ax n s 
+DEPTH           1.0	d eh p th 
+DEPTHS          1.0	d eh pd s 
+DESTINATION     1.0	d eh s t ax n ey sh ax n 
+DESTINATIONS    1.0	d eh s t ax n ey sh en z 
+DID             1.0	d ih dd 
+DIDN+T          1.0	d ih d ax n 
+DIEGO-GARCIA    1.0	d iy ey g ow g er s iy ax 
+DIESEL          1.0	d iy z el 
+DIM             1.0	d ih m 
+DISPLACEMENT    1.0	d ax s p l ey s m ax n 
+DISPLACEMENTS   1.0	d ax s p l ey s m ax n s 
+DISPLAY         1.0	d ax s p l ey 
+DISPLAYED       1.0	d ax s p l ey dd 
+DISPLAYING      1.0	d ax s p l ey ih ng 
+DISTANCE        1.0	d ih s t ax n s 
+DIXON           1.0	d ih k s ax n 
+DIXON+S         1.0	d ih k s en z 
+DMDS            1.0	d iy eh m d iy eh s 
+DO              1.0	d uw 
+DOES            1.0	d ax z 
+DOESN+T         1.0	d ah z ax n 
+DON+T           1.0	d ow n 
+DOWNES          1.0	d aw n z 
+DOWNES+S        1.0	d aw n z 
+DOWNGRADE       1.0	d aw n g r ey dd 
+DOWNGRADED      1.0	d aw n g r ey dx ax dd 
+DRAFT           1.0	dd jh r ae f td 
+DRAFTS          1.0	dd jh r ae f ts 
+DRAW            1.0	dd jh r ao 
+DUBUQUE         1.0	d ax b y uw k 
+DUBUQUE+S       1.0	d ax b y uw k s 
+DUE             1.0	d uw 
+DURING          1.0	d er ih ng 
+EACH            1.0	iy td ch 
+EARLIER         1.0	er l iy er 
+EARLIEST        1.0	er l iy ax s td 
+EARLY           1.0	er l iy 
+EAST            1.0	iy s td 
+EASTERN         1.0	iy s t er n 
+EASTPAC         1.0	iy s p ae k 
+EASTPAC+S       1.0	iy s p ae k s 
+ECG041          1.0	iy s iy dd jh iy z iy r ow f ao r w ah n 
+ECHO            1.0	eh k ow 
+ECONOMIC        1.0	eh k ax n aa m ax k 
+EDIT            1.0	eh dx ax td 
+EDITED          1.0	eh dx ax dx ax dd 
+EDITING         1.0	eh dx ax dx ih ng 
+EIGHT           1.0	ey td 
+EIGHTEEN        1.0	ey t iy n 
+EIGHTEENTH      1.0	ey t iy n th 
+EIGHTH          1.0	ey td th 
+EIGHTY          1.0	ey dx iy 
+EISENHOWER      1.0	ay z ax n hh aw er 
+EISENHOWER+S    1.0	ay z ax n hh aw er z 
+ELEVEN          1.0	ax l eh v ax n 
+ELEVENTH        1.0	ax l eh v ax n th 
+ELIZABETH       1.0	ax l ih z ax b ax th 
+EMPLOYED        1.0	ax m p l oy dd 
+END             1.0	eh n 
+ENDING          1.0	eh n d ih ng 
+ENGLAND         1.0	ih ng g l ax n 
+ENGLAND+S       1.0	ih ng g l ax n z 
+ENGLISH         1.0	ih ng g l ax sh 
+ENOUGH          1.0	ax n ah f 
+ENROUTE         1.0	ax n r uw td 
+ENTERPRISE      1.0	eh n er p r ay z 
+ENTERPRISE+S    1.0	eh n er p r ay z ax z 
+EQUIPMENT       1.0	iy k w ih pd m ax n 
+EQUIPPED        1.0	iy k w ih pd t 
+ESTEEM          1.0	ax s t iy m 
+ESTEEM+S        1.0	ax s t iy m z 
+ESTIMATED       1.0	eh s t ax m ey dx ax dd 
+ETA             1.0	iy t iy ey 
+ETR             1.0	iy t iy aa r 
+EVER            1.0	eh v er 
+EVERETT         1.0	eh v r ax td 
+EXPECTED        1.0	ax k s p eh kd t ax dd 
+FANNING         1.0	f ae n ih ng 
+FANNING+S       1.0	f ae n ih ng z 
+FAR             1.0	f aa r 
+FARTHER         1.0	f aa r dh er 
+FARTHEST        1.0	f aa r dh ax s td 
+FAST            1.0	f ae s td 
+FASTER          1.0	f ae s t er 
+FASTEST         1.0	f ae s t ax s td 
+FEBRUARY        1.0	f eh b y uw eh r iy 
+FEET            1.0	f iy td 
+FFF088          1.0	eh f eh f eh f z iy r ow ey d ey td 
+FIFTEEN         1.0	f ih f t iy n 
+FIFTEENTH       1.0	f ih f t iy n th 
+FIFTH           1.0	f ih f th 
+FIFTY           1.0	f ih f t iy 
+FIGURE          1.0	f ih g y er 
+FIGURES         1.0	f ih g y er z 
+FIJI            1.0	f iy dd jh iy 
+FIND            1.0	f ay n 
+FIREBUSH        1.0	f ay er b uh sh 
+FIREBUSH+S      1.0	f ay er b uh sh ax z 
+FIRST           1.0	f er s td 
+FIVE            1.0	f ay v 
+FIXED           1.0	f ih k s td 
+FLASHER         1.0	f l ae sh er 
+FLASHER+S       1.0	f l ae sh er z 
+FLEET           1.0	f l iy td 
+FLEETS          1.0	f l iy ts 
+FLINT           1.0	f l ih n 
+FLINT+S         1.0	f l ih n s 
+FOOTER          1.0	f uh dx er 
+FOR             1.0	f er 
+FORMOSA         1.0	f er m ow s ax 
+FORTY           1.0	f ao r dx iy 
+FOUR            1.0	f ao r 
+FOURTEEN        1.0	f ao r t iy n 
+FOURTEENTH      1.0	f ao r t iy n th 
+FOURTH          1.0	f ao ax th 
+FOX             1.0	f aa k s 
+FOX+S           1.0	f aa k s ax z 
+FREDERICK       1.0	f r eh dd jh r ax k 
+FREDERICK+S     1.0	f r eh d er k s 
+FRENCH          1.0	f r eh n td ch 
+FRESNO          1.0	f r eh z n ow 
+FRESNO+S        1.0	f r eh z n ow z 
+FRIDAY          1.0	f r ay d ey 
+FRIDAY+S        1.0	f r ay dx iy z 
+FRIGATE         1.0	f r ih g ax td 
+FRIGATE+S       1.0	f r ih g ax ts 
+FRIGATES        1.0	f r ih g ax ts 
+FRIGATES+S      1.0	f r ih g ax td s 
+FROM            1.0	f r ax m 
+FUEL            1.0	f y uw l 
+FULL            1.0	f uh l 
+GALLONS         1.0	g ae l ax n z 
+GALVESTON       1.0	g ae l v ax s t ax n 
+GAS             1.0	g ae s 
+GET             1.0	g eh td 
+GIVE            1.0	g ih v 
+GLACIER         1.0	g l ey sh er 
+GLACIER+S       1.0	g l ey sh er z 
+GNOMONIC        1.0	n ax m aa n ax k 
+GO              1.0	g ow 
+GOING           1.0	g ow ih ng 
+GONE            1.0	g aa n 
+GREAT           1.0	g r ey td 
+GREATER         1.0	g r ey dx er 
+GREATEST        1.0	g r ey dx ax s td 
+GREEN           1.0	g r iy n 
+GRID            1.0	g r ih dd 
+GRIDLEY         1.0	g r ih d l iy 
+GRIDLEY+S       1.0	g r ih dd l iy z 
+GRILL           1.0	g r ih l 
+GROSS           1.0	g r ow s 
+GROUP           1.0	g r uw p 
+GROUPS          1.0	g r uw p s 
+GUARDFISH       1.0	g aa r d f ih sh 
+GUARDFISH+S     1.0	g aa r dd f ih sh ax z 
+GUITARRO        1.0	g ih t aa r ow 
+GUITARRO+S      1.0	g ih t aa r ow z 
+GULF            1.0	g ah l f 
+HAD             1.0	hh ae dd 
+HALF            1.0	hh ae f 
+HARBOR          1.0	hh aa r b er 
+HARPOON         1.0	hh aa r p uw n 
+HAS             1.0	hh ae z 
+HASN+T          1.0	hh ae z ax n 
+HAVE            1.0	hh ae v 
+HAVEN+T         1.0	hh ae v ax n 
+HAWKBILL        1.0	hh ao kd b ih l 
+HAWKBILL+S      1.0	hh ao kd b ih l z 
+HE              1.0	hh iy 
+HE+S            1.0	hh iy z 
+HECTOR          1.0	hh eh kd t er 
+HECTOR+S        1.0	hh eh kd t er z 
+HEPBURN         1.0	hh eh b er n 
+HEPBURN+S       1.0	hh eh pd b er n z 
+HER             1.0	hh er 
+HERS            1.0	hh er z 
+HFDF            1.0	ey td ch eh f d iy eh f 
+HIGH            1.0	hh ay 
+HIGHER          1.0	hh ay er 
+HIGHEST         1.0	hh ay ax s td 
+HIM             1.0	hh ih m 
+HIS             1.0	hh ih z 
+HOME            1.0	hh ow m 
+HOMER           1.0	hh ow m er 
+HONG-KONG       1.0	hh ao ng k ao ng 
+HONOLULU        1.0	hh aa n ax l uw l uw 
+HOOKED          1.0	hh uh kd t 
+HORNE           1.0	hh ao r n 
+HORNE+S         1.0	hh ao r n z 
+HOUR            1.0	aw er 
+HOURS           1.0	aw er z 
+HOW             1.0	hh aw 
+HUNDRED         1.0	hh ah n d er dx 
+ICE-NINE        1.0	ay s n ay n 
+ID              1.0	ay d iy 
+IDENTIFICATION  1.0	ay d eh n ax f ax k ey sh ax n 
+IDENTIFICATIONS 1.0	ay d eh n ax f ax k ey sh en z 
+IF              1.0	ih f 
+IN              1.0	ih n 
+INCLUDE         1.0	ax ng k l uw dd 
+INCLUDED        1.0	ax ng k l uw dx ax dd 
+INCLUDING       1.0	ax ng k l uw dx ih ng 
+INCREASE        1.0	ih ng k r iy s 
+INCREASED       1.0	ih ng k r iy s td 
+INCREASING      1.0	ih ng k r iy s ih ng 
+INDEPENDENCE    1.0	ih n d iy p eh n d ax n s 
+INDEPENDENCE+S  1.0	ih n d iy p eh n d ax n td s ax z 
+INDIAN          1.0	ih n d iy ax n 
+INDONESIA       1.0	ih n d ow n ey sh ax 
+INFORMATION     1.0	ih n f ax m ey sh ax n 
+INSTALLED       1.0	ax n s t aa l dd 
+INSTEAD         1.0	ax n s t eh dd 
+INSUFFICIENT    1.0	ih n s ax f ih sh ax n 
+INVOLVED        1.0	ax n v aa l v dd 
+INVOLVING       1.0	ax n v aa l v ih ng 
+IRONWOOD        1.0	ay er n w uh dd 
+IRONWOOD+S      1.0	ay er n w uh dd z 
+IS              1.0	ih z 
+ISLANDS         1.0	ay l ax n z 
+ISN+T           1.0	ih z ax n 
+IT              1.0	ih td 
+IT+S            1.0	ih ts 
+ITS             1.0	ih ts 
+JANUARY         1.0	dd jh ae n y uw er iy 
+JAPAN           1.0	dd jh ax p ae n 
+JARRETT         1.0	dd jh eh r ax td 
+JARRETT+S       1.0	dd jh eh er ts 
+JARVIS          1.0	dd jh aa r v ax s 
+JARVIS+S        1.0	dd jh aa r v ax s ax z 
+JASON           1.0	dd jh ey s ax n 
+JASON+S         1.0	dd jh ey s en z 
+JULY            1.0	dd jh uw l ay 
+JUNE            1.0	dd jh uw n 
+JUPITER         1.0	dd jh uw p ax dx er 
+JUPITER+S       1.0	dd jh uw p ax dx er z 
+KENNEDY         1.0	k eh n ax dx iy 
+KENNEDY+S       1.0	k eh n ax dx iy z 
+KILOMETER       1.0	k el aa m ax dx er 
+KILOMETERS      1.0	k el aa m ax dx er z 
+KIRK            1.0	k er k 
+KIRK+S          1.0	k er k s 
+KISKA           1.0	k ih s k ax 
+KISKA+S         1.0	k ih s k ax z 
+KNOT            1.0	n aa td 
+KNOTS           1.0	n aa ts 
+KODIAK          1.0	k ow dd iy ae k 
+KOREA           1.0	k ao r iy ax 
+KOREAN          1.0	k ao r iy ax n 
+LAMPS           1.0	l ae m p s 
+LANTFLT         1.0	l ae n t f l iy td 
+LARGE           1.0	l aa r dd jh 
+LARGER          1.0	l aa r dd jh er 
+LARGEST         1.0	l aa r dd jh ax s td 
+LAST            1.0	l ae s td 
+LAT             1.0	l ae td 
+LAT-LON         1.0	l ae td l aa n 
+LAT-LONS        1.0	l ae td l aa n z 
+LATER           1.0	l ey dx er 
+LATEST          1.0	l ey dx ax s td 
+LATITUDE        1.0	l ae dx ax t uw dd 
+LATITUDES       1.0	l ae dx ax t uw dd z 
+LATS            1.0	l ae ts 
+LEAST           1.0	l iy s td 
+LEFT            1.0	l eh f td 
+LENGTH          1.0	l eh ng th 
+LENGTHS         1.0	l eh ng th s 
+LENINGRAD       1.0	l eh n ax n g r ae dd 
+LESS            1.0	l eh s 
+LETTER          1.0	l eh dx er 
+LETTERS         1.0	l eh dx er z 
+LEVEL           1.0	l eh v el 
+LEVELS          1.0	l eh v el z 
+LINK-11         1.0	l ih ng k ax l eh v ax n 
+LIST            1.0	l ih s td 
+LOCATED         1.0	l ow k ey dx ax dd 
+LOCATION        1.0	l ow k ey sh ax n 
+LOCATIONS       1.0	l ow k ey sh en z 
+LOCKWOOD        1.0	l aa k w uh dd 
+LOCKWOOD+S      1.0	l aa k w uh dd z 
+LON             1.0	l aa n 
+LONG            1.0	l ao ng 
+LONGER          1.0	l ao ng g er 
+LONGEST         1.0	l ao ng g ax s td 
+LONGITUDE       1.0	l aa n jh ax t uw dd 
+LONGITUDES      1.0	l aa n jh ax t uw dd z 
+LONS            1.0	l aa n z 
+LOW             1.0	l ow 
+LOWER           1.0	l ow er 
+LOWEST          1.0	l ow ax s td 
+M-CODE          1.0	eh m k ow dd 
+M-CODES         1.0	eh m k ow dd z 
+M-RATING        1.0	eh m r ey dx ih ng 
+M-RATINGS       1.0	eh m r ey dx ih ng z 
+M1              1.0	eh m w ah n 
+M2              1.0	eh m t uw 
+M3              1.0	eh m th r iy 
+M4              1.0	eh m f ao r 
+M5              1.0	eh m f ay v 
+MADAGASCAR      1.0	m ae d ax g ae s k aa r 
+MADE            1.0	m ey dd 
+MAKE            1.0	m ey k 
+MAKING          1.0	m ey k ih ng 
+MANCHESTER      1.0	m ae n td ch ax s t er 
+MANHATTAN       1.0	m ae n hh ae t ax n 
+MANHATTAN+S     1.0	m ae n hh ae dx ax n z 
+MANILA          1.0	m ax n ih l ax 
+MANY            1.0	m eh n iy 
+MARCH           1.0	m aa r td ch 
+MARS            1.0	m aa r z 
+MARS+S          1.0	m aa r z 
+MAX             1.0	m ae k s 
+MAXIMUM         1.0	m ae k s m ax m 
+MAY             1.0	m ey 
+MCCLUSKY        1.0	m ax k l ah s k iy 
+MCCLUSKY+S      1.0	m ax k l ah s k iy z 
+ME              1.0	m iy 
+MEASURE         1.0	m ey sh er 
+MERCATOR        1.0	m er k ey dx er 
+MERCURY         1.0	m er k y er iy 
+MERCURY+S       1.0	m er k y er iy z 
+METEOR          1.0	m iy t iy er 
+METEOR+S        1.0	m iy t iy er z 
+METERS          1.0	m iy dx er z 
+METRIC          1.0	m eh td ch r ax k 
+MEXICO          1.0	m eh k s ax k ow 
+MIAMI           1.0	m ay ae m iy 
+MIDGETT         1.0	m ih dd jh ax td 
+MIDGETT+S       1.0	m ih dd jh ax ts 
+MIDPAC          1.0	m ih dd p ae k 
+MIDPAC+S        1.0	m ih dd p ae k s 
+MIDWAY          1.0	m ih d w ey 
+MIDWAY+S        1.0	m ih d w ey z 
+MILE            1.0	m ay el 
+MILES           1.0	m ay el z 
+MIND            1.0	m ay n 
+MINUTES         1.0	m ih n ax ts 
+MISHAWAKA       1.0	m ih sh ax w aa k ax 
+MISHAWAKA+S     1.0	m ih sh ax w aa k ax z 
+MISSION         1.0	m ih sh ax n 
+MISSIONS        1.0	m ih sh en z 
+MISSISSIPPI     1.0	m ih s ax s ih p iy 
+MISSISSIPPI+S   1.0	m ih s ax s ih p iy z 
+MIW             1.0	eh m ay d ah b y uw 
+MOB             1.0	eh m ow b iy 
+MONDAY          1.0	m ah n d ey 
+MONDAY+S        1.0	m ah n d ey z 
+MONGOLIA        1.0	m aa ng g ow l iy ax 
+MONTH           1.0	m ah n th 
+MONTH+S         1.0	m ah n th s 
+MONTHS          1.0	m ah n th s 
+MONTICELLO      1.0	m aa n ax s eh l ow 
+MONTICELLO+S    1.0	m aa n ax s eh l ow z 
+MORE            1.0	m ao r 
+MOST            1.0	m ow s td 
+MOZAMBIQUE      1.0	m ow z ae m b iy k 
+MUCH            1.0	m ah td ch 
+N92762          1.0	eh n n ay n t uw s eh v ax n s ih k s t uw 
+NAME            1.0	n ey m 
+NAMES           1.0	n ey m z 
+NAPLES          1.0	n ey p el z 
+NASHUA          1.0	n ae sh uw ax 
+NASHUA+S        1.0	n ae sh uw ax z 
+NEAR            1.0	n iy r 
+NEARER          1.0	n iy r er 
+NEAREST         1.0	n iy r ax s td 
+NEVER           1.0	n eh v er 
+NEW             1.0	n uw 
+NEW-YORK        1.0	n uw y ao r k 
+NEW-ZEALAND     1.0	n uw z iy l ax n 
+NEWCASTLE       1.0	n uw k ae s el 
+NEWER           1.0	n uw er 
+NEWEST          1.0	n uw ax s td 
+NEXT            1.0	n eh k s td 
+NINE            1.0	n ay n 
+NINETEEN        1.0	n ay n t iy n 
+NINETEENTH      1.0	n ay n t iy n th 
+NINETY          1.0	n ay n iy 
+NINTH           1.0	n ay n th 
+NO              1.0	n ow 
+NOME            1.0	n ow m 
+NORTH           1.0	n ao ax th 
+NORTHERN        1.0	n ao r dh er n 
+NOT             1.0	n aa td 
+NOVA            1.0	n ow v ax 
+NOVEMBER        1.0	n ow v eh m b er 
+NOW             1.0	n aw 
+NTDS            1.0	eh n t iy d iy eh s 
+NUCLEAR         1.0	n uw k l iy er 
+NUMBER          1.0	n ah m b er 
+OAKLAND         1.0	ow k l ax n 
+OCEAN           1.0	ow sh ax n 
+OCTOBER         1.0	aa kd t ow b er 
+OF              1.0	ax v 
+OFF             1.0	ao f 
+OLD             1.0	ow dx 
+OLDER           1.0	ow d er 
+OLDEST          1.0	ow l d ax s td 
+OLYMPIA         1.0	ow l ih m p iy ax 
+ON              1.0	aa n 
+ONE             1.0	w ah n 
+ONLY            1.0	ow n l iy 
+OPEN            1.0	ow p ax n 
+OR              1.0	ao r 
+ORANGE          1.0	ao er n jh 
+OSGP            1.0	ow eh s dd jh iy p iy 
+OVERALL         1.0	ow v er ao l 
+OVERLAY         1.0	ow v er l ey 
+OVERLAYS        1.0	ow v er l ey z 
+PAC             1.0	p ae k 
+PACFLT          1.0	p ae k f l iy td 
+PACIFIC         1.0	p ax s ih f ax k 
+PANAMA          1.0	p ae n ax m aa 
+PARAMETER       1.0	p er ae m ax dx er 
+PARAMETERS      1.0	p er ae m ax dx er z 
+PEARL           1.0	p er l 
+PEORIA          1.0	p iy ao r iy ax 
+PEORIA+S        1.0	p iy ao r iy ax z 
+PERCENT         1.0	p er s eh n 
+PERSIAN         1.0	p er sh ax n 
+PERSONNEL       1.0	p er s ax n eh l 
+PHILIPPINE      1.0	f ih l ax p iy n 
+PHILIPPINES     1.0	f ih l ax p iy n z 
+PIGEON          1.0	p ih dd jh ax n 
+PIGEON+S        1.0	p ih dd jh ax n z 
+PLH003          1.0	p iy eh l ey td ch z iy r ow z iy r ow th r iy 
+PLUCK           1.0	p l ah k 
+PLUCK+S         1.0	p l ah k s 
+PLUNGER         1.0	p l ah n jh er 
+PLUNGER+S       1.0	p l ah n jh er z 
+POLLACK         1.0	p aa l ax k 
+POLLACK+S       1.0	p aa l ax k s 
+POLYNESIA       1.0	p aa l ax n iy sh ax 
+PORT            1.0	p ao r td 
+PORTS           1.0	p ao r ts 
+POSIT           1.0	p aa z ax td 
+POSITION        1.0	p ax z ih sh ax n 
+POSITIONS       1.0	p ax z ih sh en z 
+POSITS          1.0	p aa z ax ts 
+POUGHKEEPSIE    1.0	p uw k ih p s iy 
+POUGHKEEPSIE+S  1.0	p uw k ih p s iy z 
+POWERED         1.0	p aw er dd 
+PRAIRIE         1.0	p r eh r iy 
+PRAIRIE+S       1.0	p r eh r iy z 
+PRESENT         1.0	p r eh z ax n 
+PREVIOUS        1.0	p r iy v iy ax s 
+PROBLEM         1.0	p r aa b l ax m 
+PROBLEMS        1.0	p r aa b l ax m z 
+PROJECTION      1.0	p er dd jh eh k sh ax n 
+PROPELLED       1.0	p er p eh l dd 
+PROPULSION      1.0	p er p ah l sh ax n 
+PUFFER          1.0	p ah f er 
+PUFFER+S        1.0	p ah f er z 
+PUGET-1         1.0	p y uw dd jh ax td w ah n 
+QUARTER         1.0	k w ao r dx er 
+QUARTERS        1.0	k w ao r dx er s 
+QUEENFISH       1.0	k w iy n f ih sh 
+QUEENFISH+S     1.0	k w iy n f ih sh ax z 
+RADAR           1.0	r ey dx aa r 
+RAMSEY          1.0	r ae m z iy 
+RAMSEY+S        1.0	r ae m z iy z 
+RANGER          1.0	r ey n jh er 
+RANGER+S        1.0	r ey n jh er z 
+RATED           1.0	r ey dx ax dd 
+RATHBURNE       1.0	r ae th b er n 
+RATHBURNE+S     1.0	r ae th b er n z 
+RATING          1.0	r ey dx ih ng 
+RATINGS         1.0	r ey dx ih ng z 
+READINESS       1.0	r eh dx iy n ax s 
+REASON          1.0	r iy z ax n 
+REASONER        1.0	r iy z ax n er 
+REASONER+S      1.0	r iy z ax n er z 
+REASONS         1.0	r iy z en z 
+RECENT          1.0	r iy s ax n 
+RECLAIMER       1.0	r iy k l ey m er 
+RECLAIMER+S     1.0	r iy k l ey m er z 
+RED             1.0	r eh dd 
+REDEFINE        1.0	r iy d iy f ay n 
+REDEFINED       1.0	r iy d iy f ay n 
+REDEFINING      1.0	r iy d iy f ay n ih ng 
+REDISPLAY       1.0	r iy d ax s p l ey 
+REDO            1.0	r iy d uw 
+REDRAW          1.0	r iy dd jh r ao 
+REEVES          1.0	r iy v z 
+REEVES+S        1.0	r iy v z 
+REMAINING       1.0	r iy m ey n ih ng 
+REMARK          1.0	r iy m aa r k 
+REMARKS         1.0	r iy m aa r k s 
+REPAIR          1.0	r iy p eh r 
+REPAIRED        1.0	r iy p eh r dd 
+REPAIRING       1.0	r iy p eh r ih ng 
+REPLACED        1.0	r iy p l ey s td 
+REPORT          1.0	r iy p ao r td 
+REPORTED        1.0	r iy p ao r dx ax dd 
+REPORTING       1.0	r iy p ao r dx ih ng 
+REPORTS         1.0	r iy p ao r ts 
+RESET           1.0	r iy s eh td 
+RESOLUTION      1.0	r eh z ax l uw sh ax n 
+RESOLVED        1.0	r iy z ao l v dd 
+RESOURCE        1.0	r iy s ao r s 
+RESOURCES       1.0	r iy s ao r s ax z 
+REVIEW          1.0	r iy v y uw 
+ROSS            1.0	r ao 
+SACRAMENTO      1.0	s ae k er m eh n t ow 
+SACRAMENTO+S    1.0	s ae k er m eh n t ow z 
+SAIL            1.0	s ey l 
+SAME            1.0	s ey m 
+SAMPLE          1.0	s ae m p el 
+SAMPLE+S        1.0	s ae m p el z 
+SAN-DIEGO       1.0	s ae n d iy ey g ow 
+SAN-FRAN        1.0	s ae n f r ae n 
+SASSAFRAS       1.0	s ae s ax f r ae s 
+SASSAFRAS+S     1.0	s ae s ax f r ae s ax z 
+SATURDAY        1.0	s ae dx er d ey 
+SATURDAY+S      1.0	s ae dx er d ey z 
+SAVE            1.0	s ey v 
+SCHENECTADY     1.0	s k ax n eh kd t ax dx iy 
+SCHENECTADY+S   1.0	s k ax n eh kd t ax dx iy z 
+SCREEN          1.0	s k r iy n 
+SCREENS         1.0	s k r iy n z 
+SEA             1.0	s iy 
+SEAWOLF         1.0	s iy w uh l f 
+SEAWOLF+S       1.0	s iy w uh l f s 
+SECOND          1.0	s eh k ax n 
+SECURITY        1.0	s ax k y er ax dx iy 
+SENSOR          1.0	s eh n s er 
+SENSORS         1.0	s eh n s er z 
+SEPTEMBER       1.0	s ax pd t eh m b er 
+SET             1.0	s eh td 
+SETTING         1.0	s eh dx ih ng 
+SETTINGS        1.0	s eh dx ih ng z 
+SEVEN           1.0	s eh v ax n 
+SEVENTEEN       1.0	s eh v ax n t iy n 
+SEVENTEENTH     1.0	s eh v ax n t iy n th 
+SEVENTH         1.0	s eh v ax n th 
+SEVENTY         1.0	s eh v ax n iy 
+SHASTA          1.0	sh ae s t ax 
+SHASTA+S        1.0	sh ae s t ax z 
+SHE             1.0	sh iy 
+SHE+S           1.0	sh iy z 
+SHERMAN         1.0	sh er m ax n 
+SHERMAN+S       1.0	sh er m ax n z 
+SHIP            1.0	sh ih p 
+SHIPS           1.0	sh ih p s 
+SHIPS+S         1.0	sh ih p s 
+SHOW            1.0	sh ow 
+SHOWING         1.0	sh ow ih ng 
+SHOWN           1.0	sh ow n 
+SIBERIAN        1.0	s ay b iy r iy ax n 
+SIDNEY          1.0	s ih dd n iy 
+SINCE           1.0	s ih n s 
+SINGAPORE       1.0	s ih ng ax p ao r 
+SIX             1.0	s ih k s 
+SIXTEEN         1.0	s ih k s t iy n 
+SIXTEENTH       1.0	s ih k s t iy n th 
+SIXTH           1.0	s ih k s th 
+SIXTY           1.0	s ih k s t iy 
+SIZE            1.0	s ay z 
+SLOW            1.0	s l ow 
+SLOWER          1.0	s l ow er 
+SLOWEST         1.0	s l ow ax s td 
+SLQ-32          1.0	eh s eh l k y uw th er dx iy t uw 
+SMALL           1.0	s m ao l 
+SMALLER         1.0	s m ao l er 
+SMALLEST        1.0	s m ao l ax s td 
+SOHO            1.0	s ow hh ow 
+SOLOMON         1.0	s ao l ax m ax n 
+SONAR           1.0	s ow n aa r 
+SOON            1.0	s uw n 
+SOONER          1.0	s uw n er 
+SOUTH           1.0	s aw th 
+SOUTHERN        1.0	s ah dh er n 
+SOVIET          1.0	s ow v iy ax td 
+SPEED           1.0	s p iy dd 
+SPEEDS          1.0	s p iy dd z 
+SPS-40          1.0	eh s p iy eh s f ao r dx iy 
+SPS-48          1.0	eh s p iy eh s f ao r dx iy ey td 
+SQQ-23          1.0	eh s k y uw k y uw t w eh n iy th r iy 
+START           1.0	s t aa r td 
+STARTED         1.0	s t aa r dx ax dd 
+STARTING        1.0	s t aa r dx ih ng 
+STATES          1.0	s t ey ts 
+STATION         1.0	s t ey sh ax n 
+STATUS          1.0	s t ey dx ax s 
+STEAM           1.0	s t iy m 
+STEREOGRAPHIC   1.0	s t eh r iy ow g r ae f ax k 
+STERETT         1.0	s t eh r ax td 
+STERETT+S       1.0	s t eh r ax ts 
+STRAIT          1.0	s td ch r ey td 
+SUB             1.0	s ah b 
+SUB+S           1.0	s ah b z 
+SUBIC           1.0	s uw b ax k 
+SUBMARINE       1.0	s ah b m er iy n 
+SUBMARINE+S     1.0	s ah b m er iy n z 
+SUBMARINES      1.0	s ah b m er iy n z 
+SUBS            1.0	s ah b z 
+SUFFICIENT      1.0	s ax f ih sh ax n 
+SUMMARIZE       1.0	s ah m er ay z 
+SUNDAY          1.0	s ah n d ey 
+SUNDAY+S        1.0	s ah n d ey z 
+SUPPLIES        1.0	s ax p l ay z 
+SUPPLY          1.0	s ax p l ay 
+SUPPOSED        1.0	s ax p ow z 
+SURFACE         1.0	s er f ax s 
+SUSTAINED       1.0	s ax s t ey n 
+SWITCH          1.0	s w ih td ch 
+SWITCHES        1.0	s w ih td ch ax z 
+SWORDFISH       1.0	s ao r d f ih sh 
+SWORDFISH+S     1.0	s ao r dd f ih sh ax z 
+SYSTEM          1.0	s ih s t ax m 
+T-LAM           1.0	t iy l ae m 
+TACAN           1.0	t ae k ae n 
+TAIWAN          1.0	t ay w aa n 
+TAKE            1.0	t ey k 
+TAKEN           1.0	t ey k ax n 
+TASM            1.0	t ae s ax m 
+TEN             1.0	t eh n 
+TENTH           1.0	t eh n th 
+TEST            1.0	t eh s td 
+TEXAS           1.0	t eh k s ax s 
+TEXAS+S         1.0	t eh k s ax s ax z 
+TFCC            1.0	t iy eh f s iy s iy 
+THAILAND        1.0	t ay l ae n 
+THAN            1.0	dh ae n 
+THAT            1.0	dh ae td 
+THE             1.0	dh ax 
+THEIR           1.0	dh eh r 
+THEM            1.0	dh eh m 
+THERE           1.0	dh eh r 
+THESE           1.0	dh iy z 
+THEY            1.0	dh ey 
+THIRD           1.0	th er dd 
+THIRTEEN        1.0	th er t iy n 
+THIRTEENTH      1.0	th er t iy n th 
+THIRTIETH       1.0	th er dx iy ax th 
+THIRTY          1.0	th er dx iy 
+THIS            1.0	dh ih s 
+THOSE           1.0	dh ow z 
+THOUSAND        1.0	th aw z ax n 
+THREAT          1.0	th r eh td 
+THREATS         1.0	th r eh ts 
+THREE           1.0	th r iy 
+THURSDAY        1.0	th er z d ey 
+THURSDAY+S      1.0	th er z d ey z 
+TICONDEROGA     1.0	t ay k aa n d er ow g ax 
+TICONDEROGA+S   1.0	t ay k aa n d er ow g ax z 
+TIME            1.0	t ay m 
+TIMES           1.0	t ay m z 
+TO              1.0	t uw 
+TODAY           1.0	t ax d ey 
+TODAY+S         1.0	t ax d ey z 
+TOGGLE          1.0	t aa g el 
+TOGGLED         1.0	t aa g el dd 
+TOGGLING        1.0	t aa g el ih ng 
+TOKYO           1.0	t ow k iy ow 
+TOMORROW        1.0	t ax m ao r ow 
+TOMORROW+S      1.0	t ax m ao r ow z 
+TONKIN          1.0	t ao ng k ax n 
+TONS            1.0	t ah n z 
+TOTAL           1.0	t ow dx el 
+TOWNSVILLE      1.0	t aw n z v el 
+TRACK           1.0	td ch r ae k 
+TRACKS          1.0	td ch r ae k s 
+TRAINING        1.0	td ch r ey n ih ng 
+TRIPOLI         1.0	td ch r ih p ow l iy 
+TRIPOLI+S       1.0	td ch r ih p ow l iy z 
+TRUE-VIEW       1.0	td ch r uw v y uw 
+TUESDAY         1.0	t uw z d ey 
+TUESDAY+S       1.0	t uw z d ey z 
+TURBINE         1.0	t er b ax n 
+TURN            1.0	t er n 
+TURNED          1.0	t er n 
+TURNING         1.0	t er n ih ng 
+TUSCALOOSA      1.0	t ah s k ax l uw s ax 
+TUSCALOOSA+S    1.0	t ah s k ax l uw s ax z 
+TWELFTH         1.0	t w eh l f th 
+TWELVE          1.0	t w eh l v 
+TWENTIETH       1.0	t w ah n iy ax th 
+TWENTY          1.0	t w ah n iy 
+TWO             1.0	t uw 
+TYPE            1.0	t ay p 
+TYPES           1.0	t ay p s 
+UNION           1.0	y uw n y ax n 
+UNIT            1.0	y uw n ax td 
+UNITED          1.0	y uw n ay dx ax dd 
+UNTIL           1.0	ax n t ih l 
+UOM             1.0	y uw ow eh m 
+UPDATE          1.0	ah pd d ey td 
+UPDATED         1.0	ah pd d ey dx ax dd 
+UPDATES         1.0	ah pd d ey ts 
+UPGRADE         1.0	ah pd g r ey dd 
+UPGRADED        1.0	ah pd g r ey dx ax dd 
+USA             1.0	y uw eh s ey 
+USE             1.0	y uw z 
+USING           1.0	y uw z ih ng 
+USN             1.0	y uw eh s eh n 
+VALUE           1.0	v ae l y uw 
+VALUES          1.0	v ae l y uw z 
+VANCOUVER       1.0	v ae ng k uw v er 
+VANCOUVER+S     1.0	v ae ng k uw v er z 
+VANDERGRIFT     1.0	v ae n d er g r ih f td 
+VANDERGRIFT+S   1.0	v ae n d er g r ih f ts 
+VARIOUS         1.0	v eh r iy ax s 
+VESSEL          1.0	v eh s el 
+VESSELS         1.0	v eh s el z 
+VICTORIA        1.0	v ax kd t ao r iy ax 
+VIRGINIA        1.0	v er dd jh ih n y ax 
+VIRGINIA+S      1.0	v er dd jh ih n y ax z 
+VISUAL          1.0	v ih sh uw el 
+WABASH          1.0	w aa b ae sh 
+WABASH+S        1.0	w aa b ae sh ax z 
+WADSWORTH       1.0	w aa dd z w er th 
+WADSWORTH+S     1.0	w aa dd z w er th s 
+WAS             1.0	w ah z 
+WASN+T          1.0	w ah z ax n 
+WASP            1.0	w aa s p 
+WASP+S          1.0	w aa s p s 
+WE              1.0	w iy 
+WEDNESDAY       1.0	w eh n z d ey 
+WEDNESDAY+S     1.0	w eh n z d ey z 
+WEEK            1.0	w iy k 
+WEEK+S          1.0	w iy k s 
+WEEKS           1.0	w iy k s 
+WELLINGTON      1.0	w eh l ax ng t ax n 
+WENT            1.0	w eh n 
+WERE            1.0	w er 
+WEREN+T         1.0	w er n 
+WEST            1.0	w eh s td 
+WESTERN         1.0	w eh s t er n 
+WESTPAC         1.0	w eh s p ae k 
+WESTPAC+S       1.0	w eh s p ae k s 
+WHAT            1.0	w ah td 
+WHAT+RE         1.0	w ah dx er 
+WHAT+S          1.0	w ah ts 
+WHEN            1.0	w eh n 
+WHEN+LL         1.0	w eh n el 
+WHEN+S          1.0	w eh n z 
+WHERE           1.0	w eh r 
+WHERE+S         1.0	w eh r z 
+WHICH           1.0	w ih td ch 
+WHIPPLE         1.0	w ih p el 
+WHIPPLE+S       1.0	w ih p el z 
+WHO             1.0	hh uw 
+WHO+S           1.0	hh uw z 
+WHOSE           1.0	hh uw z 
+WHY             1.0	w ay 
+WHY+S           1.0	w ay z 
+WICHITA         1.0	w ih td ch ax t ao 
+WICHITA+S       1.0	w ih td ch ax t ao z 
+WILL            1.0	w el 
+WILLAMETTE      1.0	w ih l ax m eh td 
+WILLAMETTE+S    1.0	w ih l ax m eh ts 
+WINAMAC         1.0	w ih n ax m ae k 
+WINAMAC+S       1.0	w ih n ax m ae k s 
+WINDOW          1.0	w ih n d ow 
+WINDOWS         1.0	w ih n d ow z 
+WITH            1.0	w ax th 
+WITHIN          1.0	w ax th ih n 
+WITHOUT         1.0	w ax th aw td 
+WON+T           1.0	w ow n 
+WORSE           1.0	w er s 
+WORST           1.0	w er s td 
+WOULD           1.0	w uh dd 
+WOULDN+T        1.0	w uh d ax n 
+YANKEE          1.0	y ae ng k iy 
+YEAR            1.0	y iy r 
+YEARS           1.0	y iy ax z 
+YELLOW          1.0	y eh l ow 
+YESTERDAY       1.0	y eh s t er d ey 
+YESTERDAY+S     1.0	y eh s t er dx iy z 
+YET             1.0	y eh td 
+YORKTOWN        1.0	y ao r kd t aw n 
+YORKTOWN+S      1.0	y ao r kd t aw n z 
+ZULU            1.0	z uw l uw 
+!SIL  1.0	sil

@@ -1,0 +1,9 @@
+raj_9_3_4,raj,ஒன்பது மூன்று நான்கு,/home/rb/Documents/ICT/speech_recognition/export/corpora5/digits/rm_comp/raj_9_3_4.wav
+ranjini_1_2_3,ranjini,ஒரு இரண்டு மூன்று,/home/rb/Documents/ICT/speech_recognition/export/corpora5/digits/rm_comp/ranjini_1_2_3.wav
+ranjini_9_3_5,ranjini,ஒன்பது மூன்று ஐந்து,/home/rb/Documents/ICT/speech_recognition/export/corpora5/digits/rm_comp/ranjini_9_3_5.wav
+raj_1_2_5,raj,ஒரு இரண்டு ஐந்து,/home/rb/Documents/ICT/speech_recognition/export/corpora5/digits/rm_comp/raj_1_2_5.wav
+sindhu_3_5_1,sindhu,மூன்று ஐந்து ஒரு,/home/rb/Documents/ICT/speech_recognition/export/corpora5/digits/rm_comp/sindhu_3_5_1.wav
+sindhu_4_2_8,sindhu,நான்கு இரண்டு எட்டு,/home/rb/Documents/ICT/speech_recognition/export/corpora5/digits/rm_comp/sindhu_4_2_8.wav
+ranjini_4_8_7,ranjini,நான்கு எட்டு ஏழு,/home/rb/Documents/ICT/speech_recognition/export/corpora5/digits/rm_comp/ranjini_4_8_7.wav
+ranjini_5_9_3,ranjini,ஐந்து ஒன்பது மூன்று,/home/rb/Documents/ICT/speech_recognition/export/corpora5/digits/rm_comp/ranjini_5_9_3.wav
+ranjini_22_23_24,ranjini,இருபத்து இரண்டு இருபத்து மூன்று இருபத்து நான்கு,/home/rb/Documents/ICT/speech_recognition/export/corpora5/digits/rm_comp/ranjini_22_23_24.wav

@@ -1,0 +1,11 @@
+ஒரு o_B ɾ_I ʉ_E
+இரண்டு I_B ɾ_I ʌ_I ɳ_I ɖ_I ʉ_E
+மூன்று m_B uː_I n_I r_I ʉ_E
+நான்கு n_B aː_I n_I ɡ_I ʉ_E
+ஐந்து aɪ_B n_I d_I ʉ_E
+ஆறு aː_B r_I ʉ_E
+ஏழு ʲeː_B ɻ_I ʉ_E
+எட்டு ʲe_B ʈʈ_I ʉ_E
+ஒன்பது o_B n_I b_I ʌ_I d_I ʉ_E
+<UNK> SPN_S
+<eps> SIL

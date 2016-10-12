@@ -1,0 +1,37 @@
+# gunzip -c exp/tri1/phone_stats.*.gz | steps/diagnostic/analyze_phone_length_stats.py data/lang 
+# Started at Wed Oct 12 01:19:12 PDT 2016
+#
+At utterance begin, SIL accounts for 85.7% of phone occurrences, with duration (median, mean, 95-percentile) is (46,50.1,85) frames.
+At utterance begin, nonsilence accounts for 14.3% of phone occurrences, with duration (median, mean, 95-percentile) is (58,64.5,58) frames.
+At utterance begin, o_B accounts for 14.3% of phone occurrences, with duration (median, mean, 95-percentile) is (58,64.5,58) frames.
+At utterance end, SIL accounts for 100.0% of phone occurrences, with duration (median, mean, 95-percentile) is (67,65.4,95) frames.
+Overall, nonsilence accounts for 82.5% of phone occurrences, with duration (median, mean, 95-percentile) is (15,16.4,38) frames.
+Overall, ʉ_E accounts for 19.4% of phone occurrences, with duration (median, mean, 95-percentile) is (15,17.7,40) frames.
+Overall, SIL accounts for 17.5% of phone occurrences, with duration (median, mean, 95-percentile) is (48,51.9,92) frames.
+Overall, n_I accounts for 9.7% of phone occurrences, with duration (median, mean, 95-percentile) is (5,13.9,21) frames.
+Overall, r_I accounts for 5.5% of phone occurrences, with duration (median, mean, 95-percentile) is (4,11.6,29) frames.
+Overall, d_I accounts for 4.1% of phone occurrences, with duration (median, mean, 95-percentile) is (15,14.6,20) frames.
+Overall, m_B accounts for 3.7% of phone occurrences, with duration (median, mean, 95-percentile) is (18,18.4,23) frames.
+Overall, o_B accounts for 3.7% of phone occurrences, with duration (median, mean, 95-percentile) is (28,34.2,62) frames.
+Overall, uː_I accounts for 3.7% of phone occurrences, with duration (median, mean, 95-percentile) is (18,18.6,21) frames.
+Overall, ɾ_I accounts for 3.7% of phone occurrences, with duration (median, mean, 95-percentile) is (13,12.6,19) frames.
+Overall, ʌ_I accounts for 3.7% of phone occurrences, with duration (median, mean, 95-percentile) is (17,17.5,28) frames.
+Overall, aɪ_B accounts for 2.3% of phone occurrences, with duration (median, mean, 95-percentile) is (19,19.2,21) frames.
+Overall, ʈʈ_I accounts for 2.3% of phone occurrences, with duration (median, mean, 95-percentile) is (3,14.2,21) frames.
+Overall, ʲe_B accounts for 2.3% of phone occurrences, with duration (median, mean, 95-percentile) is (26,28.2,34) frames.
+Overall, I_B accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (13,14.2,19) frames.
+Overall, aː_B accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (5,6.8,8) frames.
+Overall, aː_I accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (9,9.2,12) frames.
+Overall, b_I accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (17,14.5,17) frames.
+Overall, n_B accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (3,17.5,26) frames.
+Overall, ɖ_I accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (3,5.5,6) frames.
+Overall, ɡ_I accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (10,10.2,10) frames.
+Overall, ɳ_I accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (20,25.8,32) frames.
+Overall, ɻ_I accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (16,16.8,22) frames.
+Overall, ʲeː_B accounts for 1.8% of phone occurrences, with duration (median, mean, 95-percentile) is (3,7.5,7) frames.
+The optional-silence phone SIL occupies 40.2% of frames overall 
+Limiting the stats to the 66.5% of frames not covered by an utterance-[begin/end] phone, optional-silence SIL occupies 14.0% of frames.
+Assuming 100 frames per second, the alignments represent 0.0 hours of data, or 0.0 hours if SIL frames are excluded.
+Utterance-internal optional-silences SIL comprise 6.3% of utterance-internal phones, with duration (median, mean, 95-percentile) = (37,38.0,57)
+# Accounting: time=0 threads=1
+# Ended (code 0) at Wed Oct 12 01:19:12 PDT 2016, elapsed time 0 seconds

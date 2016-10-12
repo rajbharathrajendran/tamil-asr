@@ -1,0 +1,9 @@
+<UNK>_B I_B aɪ_B aː_B b_B d_B m_B n_B o_B r_B uː_B ɖ_B ɡ_B ɳ_B ɻ_B ɾ_B ʈʈ_B ʉ_B ʌ_B ʲe_B ʲeː_B 
+<UNK>_E I_E aɪ_E aː_E b_E d_E m_E n_E o_E r_E uː_E ɖ_E ɡ_E ɳ_E ɻ_E ɾ_E ʈʈ_E ʉ_E ʌ_E ʲe_E ʲeː_E 
+<UNK>_I I_I aɪ_I aː_I b_I d_I m_I n_I o_I r_I uː_I ɖ_I ɡ_I ɳ_I ɻ_I ɾ_I ʈʈ_I ʉ_I ʌ_I ʲe_I ʲeː_I 
+<UNK>_S I_S aɪ_S aː_S b_S d_S m_S n_S o_S r_S uː_S ɖ_S ɡ_S ɳ_S ɻ_S ɾ_S ʈʈ_S ʉ_S ʌ_S ʲe_S ʲeː_S 
+SIL SPN 
+SIL_B SPN_B 
+SIL_E SPN_E 
+SIL_I SPN_I 
+SIL_S SPN_S 

@@ -1,0 +1,23 @@
+shared split SIL SIL_B SIL_E SIL_I SIL_S
+shared split SPN SPN_B SPN_E SPN_I SPN_S
+shared split <UNK>_B <UNK>_E <UNK>_I <UNK>_S
+shared split I_B I_E I_I I_S
+shared split aɪ_B aɪ_E aɪ_I aɪ_S
+shared split aː_B aː_E aː_I aː_S
+shared split b_B b_E b_I b_S
+shared split d_B d_E d_I d_S
+shared split m_B m_E m_I m_S
+shared split n_B n_E n_I n_S
+shared split o_B o_E o_I o_S
+shared split r_B r_E r_I r_S
+shared split uː_B uː_E uː_I uː_S
+shared split ɖ_B ɖ_E ɖ_I ɖ_S
+shared split ɡ_B ɡ_E ɡ_I ɡ_S
+shared split ɳ_B ɳ_E ɳ_I ɳ_S
+shared split ɻ_B ɻ_E ɻ_I ɻ_S
+shared split ɾ_B ɾ_E ɾ_I ɾ_S
+shared split ʈʈ_B ʈʈ_E ʈʈ_I ʈʈ_S
+shared split ʉ_B ʉ_E ʉ_I ʉ_S
+shared split ʌ_B ʌ_E ʌ_I ʌ_S
+shared split ʲe_B ʲe_E ʲe_I ʲe_S
+shared split ʲeː_B ʲeː_E ʲeː_I ʲeː_S

@@ -1,0 +1,992 @@
+A 1.0 ax_S
+A42128 1.0 ey_B f_I ao_I r_I t_I uw_I w_I ah_I n_I t_I uw_I ey_I td_E
+AAW 1.0 ey_B ey_I d_I ah_I b_I y_I uw_E
+ABERDEEN 1.0 ae_B b_I er_I d_I iy_I n_E
+ABOARD 1.0 ax_B b_I ao_I r_I dd_E
+ABOVE 1.0 ax_B b_I ah_I v_E
+ADD 1.0 ae_B dd_E
+ADDED 1.0 ae_B dx_I ax_I dd_E
+ADDING 1.0 ae_B dx_I ih_I ng_E
+AFFECT 1.0 ax_B f_I eh_I kd_E
+AFTER 1.0 ae_B f_I t_I er_E
+AGAIN 1.0 ax_B g_I eh_I n_E
+AJAX 1.0 ey_B dd_I jh_I ae_I k_I s_E
+AJAX+S 1.0 ey_B dd_I jh_I ae_I k_I s_I ax_I z_E
+ALASKA 1.0 ax_B l_I ae_I s_I k_I ax_E
+ALERT 1.0 ax_B l_I er_I td_E
+ALERTS 1.0 ax_B l_I er_I ts_E
+ALEXANDRIA 1.0 ae_B l_I ax_I kd_I z_I ae_I n_I d_I r_I iy_I ax_E
+ALL 1.0 ao_B l_E
+AN 1.0 ax_B n_E
+ANCHORAGE 1.0 ae_B ng_I k_I er_I dd_I jh_E
+AND 1.0 ae_B n_E
+ANY 1.0 eh_B n_I iy_E
+ANYBODY 1.0 eh_B n_I iy_I b_I ah_I dx_I iy_E
+APALACHICOLA 1.0 ae_B p_I ax_I l_I ae_I td_I ch_I ax_I k_I ow_I l_I ax_E
+APALACHICOLA+S 1.0 ae_B p_I ax_I l_I ae_I td_I ch_I ax_I k_I ow_I l_I ax_I z_E
+APRIL 1.0 ey_B p_I r_I el_E
+ARABIAN 1.0 ax_B r_I ey_I b_I iy_I ax_I n_E
+ARCTIC 1.0 aa_B r_I t_I ax_I k_E
+ARE 1.0 aa_B r_E
+AREA 1.0 eh_B r_I iy_I ax_E
+AREAS 1.0 eh_B r_I iy_I ax_I z_E
+AREN+T 1.0 aa_B er_I n_E
+ARKANSAS 1.0 aa_B r_I k_I ax_I n_I s_I ao_E
+ARKANSAS+S 1.0 aa_B r_I k_I ax_I n_I s_I ao_I z_E
+AROUND 1.0 ax_B r_I aw_I n_E
+ARRIVAL 1.0 ax_B r_I ay_I v_I el_E
+ARRIVE 1.0 ax_B r_I ay_I v_E
+ARRIVED 1.0 ax_B r_I ay_I v_I dd_E
+ARRIVING 1.0 ax_B r_I ay_I v_I ih_I ng_E
+ARROW 1.0 eh_B r_I ow_E
+AS 1.0 ax_B z_E
+ASTORIA 1.0 ax_B s_I t_I ao_I r_I iy_I ax_E
+ASUW 1.0 ey_B eh_I s_I y_I uw_I d_I ah_I b_I y_I uw_E
+ASW 1.0 ey_B eh_I s_I d_I ah_I b_I y_I uw_E
+AT 1.0 ae_B td_E
+ATLANTIC 1.0 ax_B dd_I l_I ae_I n_I ax_I k_E
+AUGUST 1.0 ao_B g_I ax_I s_I td_E
+AVAILABLE 1.0 ax_B v_I ey_I l_I ax_I b_I el_E
+AVERAGE 1.0 ae_B v_I er_I dd_I jh_E
+BAD 1.0 b_B ae_I dd_E
+BADGER 1.0 b_B ae_I dd_I jh_I er_E
+BADGER+S 1.0 b_B ae_I dd_I jh_I er_I z_E
+BAINBRIDGE 1.0 b_B ey_I n_I b_I r_I ih_I dd_I jh_E
+BAINBRIDGE+S 1.0 b_B ey_I n_I b_I r_I ih_I dd_I jh_I ax_I z_E
+BANGKOK 1.0 b_B ae_I ng_I k_I aa_I k_E
+BARGE 1.0 b_B aa_I r_I dd_I jh_E
+BASS 1.0 b_B ae_I s_E
+BAY 1.0 b_B ey_E
+BE 1.0 b_B iy_E
+BEAM 1.0 b_B iy_I m_E
+BEAMS 1.0 b_B iy_I m_I z_E
+BEEN 1.0 b_B ih_I n_E
+BEFORE 1.0 b_B ax_I f_I er_E
+BELOW 1.0 b_B ax_I l_I ow_E
+BERING 1.0 b_B eh_I r_I ih_I ng_E
+BETTER 1.0 b_B eh_I dx_I er_E
+BETWEEN 1.0 b_B ax_I t_I w_I iy_I n_E
+BIDDLE 1.0 b_B ih_I dx_I el_E
+BIDDLE+S 1.0 b_B ih_I dx_I el_I z_E
+BISMARK 1.0 b_B ih_I z_I m_I aa_I r_I k_E
+BOMBAY 1.0 b_B aa_I m_I b_I ey_E
+BOTH 1.0 b_B ow_I th_E
+BOX 1.0 b_B aa_I k_I s_E
+BRIGHT 1.0 b_B r_I ay_I td_E
+BRITISH 1.0 b_B r_I ih_I dx_I ax_I sh_E
+BROOKE 1.0 b_B r_I uh_I k_E
+BROOKE+S 1.0 b_B r_I uh_I k_I s_E
+BRUNSWICK 1.0 b_B r_I ah_I n_I z_I w_I ax_I k_E
+BRUNSWICK+S 1.0 b_B r_I ah_I n_I z_I w_I ax_I k_I s_E
+BUD-TEST 1.0 b_B ah_I dd_I t_I eh_I s_I td_E
+BUMP 1.0 b_B ah_I m_I p_E
+BY 1.0 b_B ay_E
+C-CODE 1.0 s_B iy_I k_I ow_I dd_E
+C-CODES 1.0 s_B iy_I k_I ow_I dd_I z_E
+C-RATING 1.0 s_B iy_I r_I ey_I dx_I ih_I ng_E
+C-RATINGS 1.0 s_B iy_I r_I ey_I dx_I ih_I ng_I z_E
+C1 1.0 s_B iy_I w_I ah_I n_E
+C2 1.0 s_B iy_I t_I uw_E
+C3 1.0 s_B iy_I th_I r_I iy_E
+C4 1.0 s_B iy_I f_I ao_I r_E
+C5 1.0 s_B iy_I f_I ay_I v_E
+CALEDONIA 1.0 k_B ae_I l_I ax_I d_I ow_I n_I iy_I ax_E
+CALIFORNIA 1.0 k_B ae_I l_I ax_I f_I ao_I r_I n_I y_I ax_E
+CAMDEN 1.0 k_B ae_I m_I d_I ax_I n_E
+CAMDEN+S 1.0 k_B ae_I m_I d_I ax_I n_I z_E
+CAMPBELL 1.0 k_B ae_I m_I b_I el_E
+CAMPBELL+S 1.0 k_B ae_I m_I b_I el_I z_E
+CAN 1.0 k_B ax_I n_E
+CANADA 1.0 k_B ae_I n_I ax_I d_I ax_E
+CAPABILITIES 1.0 k_B ey_I p_I ax_I b_I ih_I l_I ax_I dx_I iy_I z_E
+CAPABILITY 1.0 k_B ey_I p_I ax_I b_I ih_I l_I ax_I dx_I iy_E
+CAPABLE 1.0 k_B ey_I p_I ax_I b_I el_E
+CAPACITIES 1.0 k_B ax_I p_I ae_I s_I ax_I dx_I iy_I z_E
+CAPACITY 1.0 k_B ax_I p_I ae_I s_I ax_I dx_I iy_E
+CARRIER 1.0 k_B eh_I r_I iy_I er_E
+CARRIER+S 1.0 k_B eh_I r_I iy_I er_I z_E
+CARRIERS 1.0 k_B eh_I r_I iy_I er_I z_E
+CARRY 1.0 k_B eh_I r_I iy_E
+CASREP 1.0 k_B ae_I s_I r_I eh_I p_E
+CASREPED 1.0 k_B ae_I s_I r_I eh_I pd_I t_E
+CASREPS 1.0 k_B ae_I s_I r_I eh_I p_I s_E
+CASUALTY 1.0 k_B ae_I sh_I uw_I ax_I l_I t_I iy_E
+CAT-2 1.0 k_B ae_I t_I uw_E
+CAT-3 1.0 k_B ae_I t_I th_I r_I iy_E
+CAT-4 1.0 k_B ae_I t_I f_I ao_I r_E
+CATEGORIES 1.0 k_B ae_I dx_I ax_I g_I ao_I r_I iy_I z_E
+CATEGORY 1.0 k_B ae_I dx_I ax_I g_I ao_I r_I iy_E
+CENTER 1.0 s_B eh_I n_I t_I er_E
+CENTERED 1.0 s_B eh_I n_I t_I er_I dd_E
+CENTERING 1.0 s_B eh_I n_I er_I ih_I ng_E
+CEP 1.0 s_B iy_I iy_I p_I iy_E
+CHANGE 1.0 td_B ch_I ey_I n_I jh_E
+CHANGED 1.0 td_B ch_I ey_I n_I jh_E
+CHANGING 1.0 td_B ch_I ey_I n_I jh_I ih_I ng_E
+CHANNEL 1.0 td_B ch_I ae_I n_I el_E
+CHART 1.0 td_B ch_I aa_I r_I td_E
+CHARTS 1.0 td_B ch_I aa_I r_I ts_E
+CHATTAHOOCHEE 1.0 td_B ch_I ae_I dx_I ax_I hh_I uw_I td_I ch_I iy_E
+CHATTAHOOCHEE+S 1.0 td_B ch_I ae_I dx_I ax_I hh_I uw_I td_I ch_I iy_I z_E
+CHESHIRE 1.0 td_B ch_I eh_I sh_I er_E
+CHINA 1.0 td_B ch_I ay_I n_I ax_E
+CHOP 1.0 td_B ch_I aa_I p_E
+CHOPPED 1.0 td_B ch_I aa_I pd_I t_E
+CHOPPING 1.0 td_B ch_I aa_I p_I ih_I ng_E
+CIRCLE 1.0 s_B er_I k_I el_E
+CITRUS 1.0 s_B ih_I dx_I er_I s_E
+CITRUS+S 1.0 s_B ih_I dx_I er_I s_I ax_I z_E
+CITY 1.0 s_B ih_I dx_I iy_E
+CLEAR 1.0 k_B l_I iy_I r_E
+CLEARED 1.0 k_B l_I iy_I r_I dd_E
+CLEARING 1.0 k_B l_I iy_I r_I ih_I ng_E
+CLEVELAND 1.0 k_B l_I iy_I v_I l_I ax_I n_E
+CLEVELAND+S 1.0 k_B l_I iy_I v_I l_I ax_I n_I z_E
+CLOSE 1.0 k_B l_I ow_I z_E
+CLOSER 1.0 k_B l_I ow_I s_I er_E
+CLOSEST 1.0 k_B l_I ow_I s_I ax_I s_I td_E
+CODAG 1.0 k_B ow_I d_I ae_I g_E
+CODE 1.0 k_B ow_I dd_E
+CODES 1.0 k_B ow_I dd_I z_E
+COLOR 1.0 k_B ah_I l_I er_E
+COMPARED 1.0 k_B ax_I m_I p_I eh_I r_I dd_E
+CONFIDENCE 1.0 k_B aa_I n_I f_I ax_I d_I ax_I n_I s_E
+CONFIDENCE+S 1.0 k_B aa_I n_I f_I ax_I d_I ax_I n_I td_I s_I ax_I z_E
+CONIFER 1.0 k_B aa_I n_I ax_I f_I er_E
+CONIFER+S 1.0 k_B aa_I n_I ax_I f_I er_I z_E
+CONQUEST 1.0 k_B aa_I ng_I k_I w_I eh_I s_I td_E
+CONQUEST+S 1.0 k_B aa_I ng_I k_I w_I eh_I s_I td_E
+CONSTANT 1.0 k_B aa_I n_I s_I t_I ax_I n_E
+CONSTANT+S 1.0 k_B aa_I n_I s_I t_I ax_I n_I s_E
+CONSTELLATION 1.0 k_B aa_I n_I s_I t_I ax_I l_I ey_I sh_I ax_I n_E
+CONSTELLATION+S 1.0 k_B aa_I n_I s_I t_I ax_I l_I ey_I sh_I en_I z_E
+CONVENTIONAL 1.0 k_B ax_I n_I v_I eh_I n_I sh_I ax_I n_I el_E
+COOK 1.0 k_B uh_I k_E
+COPELAND 1.0 k_B ow_I p_I l_I ax_I n_E
+COPELAND+S 1.0 k_B ow_I p_I l_I ax_I n_I z_E
+CORAL 1.0 k_B ao_I r_I el_E
+COULD 1.0 k_B uh_I dd_E
+COULDN+T 1.0 k_B uh_I dx_I ax_I n_E
+COUNT 1.0 k_B aw_I n_E
+COUNTED 1.0 k_B aw_I n_I ax_I dd_E
+COUNTING 1.0 k_B aw_I n_I ng_E
+CROVL 1.0 k_B r_I ow_I v_I el_E
+CROVLS 1.0 k_B r_I ow_I v_I el_I z_E
+CRUISER 1.0 k_B r_I uw_I z_I er_E
+CRUISER+S 1.0 k_B r_I uw_I z_I er_I z_E
+CRUISERS 1.0 k_B r_I uw_I z_I er_I z_E
+CRUISERS+S 1.0 k_B r_I uw_I z_I er_I z_E
+CRUISING 1.0 k_B r_I uw_I z_I ih_I ng_E
+CURRENT 1.0 k_B er_I ax_I n_E
+CURRENTLY 1.0 k_B er_I ax_I n_I t_I l_I iy_E
+DALE 1.0 d_B ey_I l_E
+DALE+S 1.0 d_B ey_I l_I z_E
+DARWIN 1.0 d_B aa_I r_I w_I ax_I n_E
+DATA 1.0 d_B ey_I dx_I ax_E
+DATE 1.0 d_B ey_I td_E
+DATED 1.0 d_B ey_I dx_I ax_I dd_E
+DATES 1.0 d_B ey_I ts_E
+DAVIDSON 1.0 d_B ey_I v_I ax_I d_I s_I ax_I n_E
+DAVIDSON+S 1.0 d_B ey_I v_I ax_I d_I s_I en_I z_E
+DAY 1.0 d_B ey_E
+DAYS 1.0 d_B ey_I z_E
+DDD992 1.0 d_B iy_I d_I iy_I d_I iy_I n_I ay_I n_I n_I ay_I n_I t_I uw_E
+DECEMBER 1.0 d_B ax_I s_I eh_I m_I b_I er_E
+DECREASE 1.0 d_B iy_I k_I r_I iy_I s_E
+DECREASED 1.0 d_B iy_I k_I r_I iy_I s_I td_E
+DECREASING 1.0 d_B iy_I k_I r_I iy_I s_I ih_I ng_E
+DEFAULT 1.0 d_B iy_I f_I ao_I l_E
+DEFAULTS 1.0 d_B iy_I f_I el_I ts_E
+DEFINE 1.0 d_B ax_I f_I ay_I n_E
+DEFINED 1.0 d_B ax_I f_I ay_I n_E
+DEFINING 1.0 d_B ax_I f_I ay_I n_I ih_I ng_E
+DEFINITION 1.0 d_B eh_I f_I ax_I n_I ih_I sh_I ax_I n_E
+DEFINITIONS 1.0 d_B eh_I f_I ax_I n_I ih_I sh_I en_I z_E
+DEGRADATION 1.0 d_B eh_I g_I er_I d_I ey_I sh_I ax_I n_E
+DEGRADATIONS 1.0 d_B eh_I g_I er_I d_I ey_I sh_I en_I z_E
+DEGRADE 1.0 d_B ax_I g_I r_I ey_I dd_E
+DEGRADED 1.0 d_B ax_I g_I r_I ey_I dx_I ax_I dd_E
+DEGRADING 1.0 d_B ax_I g_I r_I ey_I dx_I ih_I ng_E
+DEGREES 1.0 d_B ax_I g_I r_I iy_I z_E
+DELETE 1.0 d_B ax_I l_I iy_I td_E
+DELETED 1.0 d_B ax_I l_I iy_I dx_I ax_I dd_E
+DELETING 1.0 d_B ax_I l_I iy_I dx_I ih_I ng_E
+DENVER 1.0 d_B eh_I n_I v_I er_E
+DENVER+S 1.0 d_B eh_I n_I v_I er_I z_E
+DEPLOYED 1.0 d_B ax_I p_I l_I oy_I dd_E
+DEPLOYMENT 1.0 d_B ax_I p_I l_I oy_I m_I ax_I n_E
+DEPLOYMENTS 1.0 d_B ax_I p_I l_I oy_I m_I ax_I n_I s_E
+DEPTH 1.0 d_B eh_I p_I th_E
+DEPTHS 1.0 d_B eh_I pd_I s_E
+DESTINATION 1.0 d_B eh_I s_I t_I ax_I n_I ey_I sh_I ax_I n_E
+DESTINATIONS 1.0 d_B eh_I s_I t_I ax_I n_I ey_I sh_I en_I z_E
+DID 1.0 d_B ih_I dd_E
+DIDN+T 1.0 d_B ih_I d_I ax_I n_E
+DIEGO-GARCIA 1.0 d_B iy_I ey_I g_I ow_I g_I er_I s_I iy_I ax_E
+DIESEL 1.0 d_B iy_I z_I el_E
+DIM 1.0 d_B ih_I m_E
+DISPLACEMENT 1.0 d_B ax_I s_I p_I l_I ey_I s_I m_I ax_I n_E
+DISPLACEMENTS 1.0 d_B ax_I s_I p_I l_I ey_I s_I m_I ax_I n_I s_E
+DISPLAY 1.0 d_B ax_I s_I p_I l_I ey_E
+DISPLAYED 1.0 d_B ax_I s_I p_I l_I ey_I dd_E
+DISPLAYING 1.0 d_B ax_I s_I p_I l_I ey_I ih_I ng_E
+DISTANCE 1.0 d_B ih_I s_I t_I ax_I n_I s_E
+DIXON 1.0 d_B ih_I k_I s_I ax_I n_E
+DIXON+S 1.0 d_B ih_I k_I s_I en_I z_E
+DMDS 1.0 d_B iy_I eh_I m_I d_I iy_I eh_I s_E
+DO 1.0 d_B uw_E
+DOES 1.0 d_B ax_I z_E
+DOESN+T 1.0 d_B ah_I z_I ax_I n_E
+DON+T 1.0 d_B ow_I n_E
+DOWNES 1.0 d_B aw_I n_I z_E
+DOWNES+S 1.0 d_B aw_I n_I z_E
+DOWNGRADE 1.0 d_B aw_I n_I g_I r_I ey_I dd_E
+DOWNGRADED 1.0 d_B aw_I n_I g_I r_I ey_I dx_I ax_I dd_E
+DRAFT 1.0 dd_B jh_I r_I ae_I f_I td_E
+DRAFTS 1.0 dd_B jh_I r_I ae_I f_I ts_E
+DRAW 1.0 dd_B jh_I r_I ao_E
+DUBUQUE 1.0 d_B ax_I b_I y_I uw_I k_E
+DUBUQUE+S 1.0 d_B ax_I b_I y_I uw_I k_I s_E
+DUE 1.0 d_B uw_E
+DURING 1.0 d_B er_I ih_I ng_E
+EACH 1.0 iy_B td_I ch_E
+EARLIER 1.0 er_B l_I iy_I er_E
+EARLIEST 1.0 er_B l_I iy_I ax_I s_I td_E
+EARLY 1.0 er_B l_I iy_E
+EAST 1.0 iy_B s_I td_E
+EASTERN 1.0 iy_B s_I t_I er_I n_E
+EASTPAC 1.0 iy_B s_I p_I ae_I k_E
+EASTPAC+S 1.0 iy_B s_I p_I ae_I k_I s_E
+ECG041 1.0 iy_B s_I iy_I dd_I jh_I iy_I z_I iy_I r_I ow_I f_I ao_I r_I w_I ah_I n_E
+ECHO 1.0 eh_B k_I ow_E
+ECONOMIC 1.0 eh_B k_I ax_I n_I aa_I m_I ax_I k_E
+EDIT 1.0 eh_B dx_I ax_I td_E
+EDITED 1.0 eh_B dx_I ax_I dx_I ax_I dd_E
+EDITING 1.0 eh_B dx_I ax_I dx_I ih_I ng_E
+EIGHT 1.0 ey_B td_E
+EIGHTEEN 1.0 ey_B t_I iy_I n_E
+EIGHTEENTH 1.0 ey_B t_I iy_I n_I th_E
+EIGHTH 1.0 ey_B td_I th_E
+EIGHTY 1.0 ey_B dx_I iy_E
+EISENHOWER 1.0 ay_B z_I ax_I n_I hh_I aw_I er_E
+EISENHOWER+S 1.0 ay_B z_I ax_I n_I hh_I aw_I er_I z_E
+ELEVEN 1.0 ax_B l_I eh_I v_I ax_I n_E
+ELEVENTH 1.0 ax_B l_I eh_I v_I ax_I n_I th_E
+ELIZABETH 1.0 ax_B l_I ih_I z_I ax_I b_I ax_I th_E
+EMPLOYED 1.0 ax_B m_I p_I l_I oy_I dd_E
+END 1.0 eh_B n_E
+ENDING 1.0 eh_B n_I d_I ih_I ng_E
+ENGLAND 1.0 ih_B ng_I g_I l_I ax_I n_E
+ENGLAND+S 1.0 ih_B ng_I g_I l_I ax_I n_I z_E
+ENGLISH 1.0 ih_B ng_I g_I l_I ax_I sh_E
+ENOUGH 1.0 ax_B n_I ah_I f_E
+ENROUTE 1.0 ax_B n_I r_I uw_I td_E
+ENTERPRISE 1.0 eh_B n_I er_I p_I r_I ay_I z_E
+ENTERPRISE+S 1.0 eh_B n_I er_I p_I r_I ay_I z_I ax_I z_E
+EQUIPMENT 1.0 iy_B k_I w_I ih_I pd_I m_I ax_I n_E
+EQUIPPED 1.0 iy_B k_I w_I ih_I pd_I t_E
+ESTEEM 1.0 ax_B s_I t_I iy_I m_E
+ESTEEM+S 1.0 ax_B s_I t_I iy_I m_I z_E
+ESTIMATED 1.0 eh_B s_I t_I ax_I m_I ey_I dx_I ax_I dd_E
+ETA 1.0 iy_B t_I iy_I ey_E
+ETR 1.0 iy_B t_I iy_I aa_I r_E
+EVER 1.0 eh_B v_I er_E
+EVERETT 1.0 eh_B v_I r_I ax_I td_E
+EXPECTED 1.0 ax_B k_I s_I p_I eh_I kd_I t_I ax_I dd_E
+FANNING 1.0 f_B ae_I n_I ih_I ng_E
+FANNING+S 1.0 f_B ae_I n_I ih_I ng_I z_E
+FAR 1.0 f_B aa_I r_E
+FARTHER 1.0 f_B aa_I r_I dh_I er_E
+FARTHEST 1.0 f_B aa_I r_I dh_I ax_I s_I td_E
+FAST 1.0 f_B ae_I s_I td_E
+FASTER 1.0 f_B ae_I s_I t_I er_E
+FASTEST 1.0 f_B ae_I s_I t_I ax_I s_I td_E
+FEBRUARY 1.0 f_B eh_I b_I y_I uw_I eh_I r_I iy_E
+FEET 1.0 f_B iy_I td_E
+FFF088 1.0 eh_B f_I eh_I f_I eh_I f_I z_I iy_I r_I ow_I ey_I d_I ey_I td_E
+FIFTEEN 1.0 f_B ih_I f_I t_I iy_I n_E
+FIFTEENTH 1.0 f_B ih_I f_I t_I iy_I n_I th_E
+FIFTH 1.0 f_B ih_I f_I th_E
+FIFTY 1.0 f_B ih_I f_I t_I iy_E
+FIGURE 1.0 f_B ih_I g_I y_I er_E
+FIGURES 1.0 f_B ih_I g_I y_I er_I z_E
+FIJI 1.0 f_B iy_I dd_I jh_I iy_E
+FIND 1.0 f_B ay_I n_E
+FIREBUSH 1.0 f_B ay_I er_I b_I uh_I sh_E
+FIREBUSH+S 1.0 f_B ay_I er_I b_I uh_I sh_I ax_I z_E
+FIRST 1.0 f_B er_I s_I td_E
+FIVE 1.0 f_B ay_I v_E
+FIXED 1.0 f_B ih_I k_I s_I td_E
+FLASHER 1.0 f_B l_I ae_I sh_I er_E
+FLASHER+S 1.0 f_B l_I ae_I sh_I er_I z_E
+FLEET 1.0 f_B l_I iy_I td_E
+FLEETS 1.0 f_B l_I iy_I ts_E
+FLINT 1.0 f_B l_I ih_I n_E
+FLINT+S 1.0 f_B l_I ih_I n_I s_E
+FOOTER 1.0 f_B uh_I dx_I er_E
+FOR 1.0 f_B er_E
+FORMOSA 1.0 f_B er_I m_I ow_I s_I ax_E
+FORTY 1.0 f_B ao_I r_I dx_I iy_E
+FOUR 1.0 f_B ao_I r_E
+FOURTEEN 1.0 f_B ao_I r_I t_I iy_I n_E
+FOURTEENTH 1.0 f_B ao_I r_I t_I iy_I n_I th_E
+FOURTH 1.0 f_B ao_I ax_I th_E
+FOX 1.0 f_B aa_I k_I s_E
+FOX+S 1.0 f_B aa_I k_I s_I ax_I z_E
+FREDERICK 1.0 f_B r_I eh_I dd_I jh_I r_I ax_I k_E
+FREDERICK+S 1.0 f_B r_I eh_I d_I er_I k_I s_E
+FRENCH 1.0 f_B r_I eh_I n_I td_I ch_E
+FRESNO 1.0 f_B r_I eh_I z_I n_I ow_E
+FRESNO+S 1.0 f_B r_I eh_I z_I n_I ow_I z_E
+FRIDAY 1.0 f_B r_I ay_I d_I ey_E
+FRIDAY+S 1.0 f_B r_I ay_I dx_I iy_I z_E
+FRIGATE 1.0 f_B r_I ih_I g_I ax_I td_E
+FRIGATE+S 1.0 f_B r_I ih_I g_I ax_I ts_E
+FRIGATES 1.0 f_B r_I ih_I g_I ax_I ts_E
+FRIGATES+S 1.0 f_B r_I ih_I g_I ax_I td_I s_E
+FROM 1.0 f_B r_I ax_I m_E
+FUEL 1.0 f_B y_I uw_I l_E
+FULL 1.0 f_B uh_I l_E
+GALLONS 1.0 g_B ae_I l_I ax_I n_I z_E
+GALVESTON 1.0 g_B ae_I l_I v_I ax_I s_I t_I ax_I n_E
+GAS 1.0 g_B ae_I s_E
+GET 1.0 g_B eh_I td_E
+GIVE 1.0 g_B ih_I v_E
+GLACIER 1.0 g_B l_I ey_I sh_I er_E
+GLACIER+S 1.0 g_B l_I ey_I sh_I er_I z_E
+GNOMONIC 1.0 n_B ax_I m_I aa_I n_I ax_I k_E
+GO 1.0 g_B ow_E
+GOING 1.0 g_B ow_I ih_I ng_E
+GONE 1.0 g_B aa_I n_E
+GREAT 1.0 g_B r_I ey_I td_E
+GREATER 1.0 g_B r_I ey_I dx_I er_E
+GREATEST 1.0 g_B r_I ey_I dx_I ax_I s_I td_E
+GREEN 1.0 g_B r_I iy_I n_E
+GRID 1.0 g_B r_I ih_I dd_E
+GRIDLEY 1.0 g_B r_I ih_I d_I l_I iy_E
+GRIDLEY+S 1.0 g_B r_I ih_I dd_I l_I iy_I z_E
+GRILL 1.0 g_B r_I ih_I l_E
+GROSS 1.0 g_B r_I ow_I s_E
+GROUP 1.0 g_B r_I uw_I p_E
+GROUPS 1.0 g_B r_I uw_I p_I s_E
+GUARDFISH 1.0 g_B aa_I r_I d_I f_I ih_I sh_E
+GUARDFISH+S 1.0 g_B aa_I r_I dd_I f_I ih_I sh_I ax_I z_E
+GUITARRO 1.0 g_B ih_I t_I aa_I r_I ow_E
+GUITARRO+S 1.0 g_B ih_I t_I aa_I r_I ow_I z_E
+GULF 1.0 g_B ah_I l_I f_E
+HAD 1.0 hh_B ae_I dd_E
+HALF 1.0 hh_B ae_I f_E
+HARBOR 1.0 hh_B aa_I r_I b_I er_E
+HARPOON 1.0 hh_B aa_I r_I p_I uw_I n_E
+HAS 1.0 hh_B ae_I z_E
+HASN+T 1.0 hh_B ae_I z_I ax_I n_E
+HAVE 1.0 hh_B ae_I v_E
+HAVEN+T 1.0 hh_B ae_I v_I ax_I n_E
+HAWKBILL 1.0 hh_B ao_I kd_I b_I ih_I l_E
+HAWKBILL+S 1.0 hh_B ao_I kd_I b_I ih_I l_I z_E
+HE 1.0 hh_B iy_E
+HE+S 1.0 hh_B iy_I z_E
+HECTOR 1.0 hh_B eh_I kd_I t_I er_E
+HECTOR+S 1.0 hh_B eh_I kd_I t_I er_I z_E
+HEPBURN 1.0 hh_B eh_I b_I er_I n_E
+HEPBURN+S 1.0 hh_B eh_I pd_I b_I er_I n_I z_E
+HER 1.0 hh_B er_E
+HERS 1.0 hh_B er_I z_E
+HFDF 1.0 ey_B td_I ch_I eh_I f_I d_I iy_I eh_I f_E
+HIGH 1.0 hh_B ay_E
+HIGHER 1.0 hh_B ay_I er_E
+HIGHEST 1.0 hh_B ay_I ax_I s_I td_E
+HIM 1.0 hh_B ih_I m_E
+HIS 1.0 hh_B ih_I z_E
+HOME 1.0 hh_B ow_I m_E
+HOMER 1.0 hh_B ow_I m_I er_E
+HONG-KONG 1.0 hh_B ao_I ng_I k_I ao_I ng_E
+HONOLULU 1.0 hh_B aa_I n_I ax_I l_I uw_I l_I uw_E
+HOOKED 1.0 hh_B uh_I kd_I t_E
+HORNE 1.0 hh_B ao_I r_I n_E
+HORNE+S 1.0 hh_B ao_I r_I n_I z_E
+HOUR 1.0 aw_B er_E
+HOURS 1.0 aw_B er_I z_E
+HOW 1.0 hh_B aw_E
+HUNDRED 1.0 hh_B ah_I n_I d_I er_I dx_E
+ICE-NINE 1.0 ay_B s_I n_I ay_I n_E
+ID 1.0 ay_B d_I iy_E
+IDENTIFICATION 1.0 ay_B d_I eh_I n_I ax_I f_I ax_I k_I ey_I sh_I ax_I n_E
+IDENTIFICATIONS 1.0 ay_B d_I eh_I n_I ax_I f_I ax_I k_I ey_I sh_I en_I z_E
+IF 1.0 ih_B f_E
+IN 1.0 ih_B n_E
+INCLUDE 1.0 ax_B ng_I k_I l_I uw_I dd_E
+INCLUDED 1.0 ax_B ng_I k_I l_I uw_I dx_I ax_I dd_E
+INCLUDING 1.0 ax_B ng_I k_I l_I uw_I dx_I ih_I ng_E
+INCREASE 1.0 ih_B ng_I k_I r_I iy_I s_E
+INCREASED 1.0 ih_B ng_I k_I r_I iy_I s_I td_E
+INCREASING 1.0 ih_B ng_I k_I r_I iy_I s_I ih_I ng_E
+INDEPENDENCE 1.0 ih_B n_I d_I iy_I p_I eh_I n_I d_I ax_I n_I s_E
+INDEPENDENCE+S 1.0 ih_B n_I d_I iy_I p_I eh_I n_I d_I ax_I n_I td_I s_I ax_I z_E
+INDIAN 1.0 ih_B n_I d_I iy_I ax_I n_E
+INDONESIA 1.0 ih_B n_I d_I ow_I n_I ey_I sh_I ax_E
+INFORMATION 1.0 ih_B n_I f_I ax_I m_I ey_I sh_I ax_I n_E
+INSTALLED 1.0 ax_B n_I s_I t_I aa_I l_I dd_E
+INSTEAD 1.0 ax_B n_I s_I t_I eh_I dd_E
+INSUFFICIENT 1.0 ih_B n_I s_I ax_I f_I ih_I sh_I ax_I n_E
+INVOLVED 1.0 ax_B n_I v_I aa_I l_I v_I dd_E
+INVOLVING 1.0 ax_B n_I v_I aa_I l_I v_I ih_I ng_E
+IRONWOOD 1.0 ay_B er_I n_I w_I uh_I dd_E
+IRONWOOD+S 1.0 ay_B er_I n_I w_I uh_I dd_I z_E
+IS 1.0 ih_B z_E
+ISLANDS 1.0 ay_B l_I ax_I n_I z_E
+ISN+T 1.0 ih_B z_I ax_I n_E
+IT 1.0 ih_B td_E
+IT+S 1.0 ih_B ts_E
+ITS 1.0 ih_B ts_E
+JANUARY 1.0 dd_B jh_I ae_I n_I y_I uw_I er_I iy_E
+JAPAN 1.0 dd_B jh_I ax_I p_I ae_I n_E
+JARRETT 1.0 dd_B jh_I eh_I r_I ax_I td_E
+JARRETT+S 1.0 dd_B jh_I eh_I er_I ts_E
+JARVIS 1.0 dd_B jh_I aa_I r_I v_I ax_I s_E
+JARVIS+S 1.0 dd_B jh_I aa_I r_I v_I ax_I s_I ax_I z_E
+JASON 1.0 dd_B jh_I ey_I s_I ax_I n_E
+JASON+S 1.0 dd_B jh_I ey_I s_I en_I z_E
+JULY 1.0 dd_B jh_I uw_I l_I ay_E
+JUNE 1.0 dd_B jh_I uw_I n_E
+JUPITER 1.0 dd_B jh_I uw_I p_I ax_I dx_I er_E
+JUPITER+S 1.0 dd_B jh_I uw_I p_I ax_I dx_I er_I z_E
+KENNEDY 1.0 k_B eh_I n_I ax_I dx_I iy_E
+KENNEDY+S 1.0 k_B eh_I n_I ax_I dx_I iy_I z_E
+KILOMETER 1.0 k_B el_I aa_I m_I ax_I dx_I er_E
+KILOMETERS 1.0 k_B el_I aa_I m_I ax_I dx_I er_I z_E
+KIRK 1.0 k_B er_I k_E
+KIRK+S 1.0 k_B er_I k_I s_E
+KISKA 1.0 k_B ih_I s_I k_I ax_E
+KISKA+S 1.0 k_B ih_I s_I k_I ax_I z_E
+KNOT 1.0 n_B aa_I td_E
+KNOTS 1.0 n_B aa_I ts_E
+KODIAK 1.0 k_B ow_I dd_I iy_I ae_I k_E
+KOREA 1.0 k_B ao_I r_I iy_I ax_E
+KOREAN 1.0 k_B ao_I r_I iy_I ax_I n_E
+LAMPS 1.0 l_B ae_I m_I p_I s_E
+LANTFLT 1.0 l_B ae_I n_I t_I f_I l_I iy_I td_E
+LARGE 1.0 l_B aa_I r_I dd_I jh_E
+LARGER 1.0 l_B aa_I r_I dd_I jh_I er_E
+LARGEST 1.0 l_B aa_I r_I dd_I jh_I ax_I s_I td_E
+LAST 1.0 l_B ae_I s_I td_E
+LAT 1.0 l_B ae_I td_E
+LAT-LON 1.0 l_B ae_I td_I l_I aa_I n_E
+LAT-LONS 1.0 l_B ae_I td_I l_I aa_I n_I z_E
+LATER 1.0 l_B ey_I dx_I er_E
+LATEST 1.0 l_B ey_I dx_I ax_I s_I td_E
+LATITUDE 1.0 l_B ae_I dx_I ax_I t_I uw_I dd_E
+LATITUDES 1.0 l_B ae_I dx_I ax_I t_I uw_I dd_I z_E
+LATS 1.0 l_B ae_I ts_E
+LEAST 1.0 l_B iy_I s_I td_E
+LEFT 1.0 l_B eh_I f_I td_E
+LENGTH 1.0 l_B eh_I ng_I th_E
+LENGTHS 1.0 l_B eh_I ng_I th_I s_E
+LENINGRAD 1.0 l_B eh_I n_I ax_I n_I g_I r_I ae_I dd_E
+LESS 1.0 l_B eh_I s_E
+LETTER 1.0 l_B eh_I dx_I er_E
+LETTERS 1.0 l_B eh_I dx_I er_I z_E
+LEVEL 1.0 l_B eh_I v_I el_E
+LEVELS 1.0 l_B eh_I v_I el_I z_E
+LINK-11 1.0 l_B ih_I ng_I k_I ax_I l_I eh_I v_I ax_I n_E
+LIST 1.0 l_B ih_I s_I td_E
+LOCATED 1.0 l_B ow_I k_I ey_I dx_I ax_I dd_E
+LOCATION 1.0 l_B ow_I k_I ey_I sh_I ax_I n_E
+LOCATIONS 1.0 l_B ow_I k_I ey_I sh_I en_I z_E
+LOCKWOOD 1.0 l_B aa_I k_I w_I uh_I dd_E
+LOCKWOOD+S 1.0 l_B aa_I k_I w_I uh_I dd_I z_E
+LON 1.0 l_B aa_I n_E
+LONG 1.0 l_B ao_I ng_E
+LONGER 1.0 l_B ao_I ng_I g_I er_E
+LONGEST 1.0 l_B ao_I ng_I g_I ax_I s_I td_E
+LONGITUDE 1.0 l_B aa_I n_I jh_I ax_I t_I uw_I dd_E
+LONGITUDES 1.0 l_B aa_I n_I jh_I ax_I t_I uw_I dd_I z_E
+LONS 1.0 l_B aa_I n_I z_E
+LOW 1.0 l_B ow_E
+LOWER 1.0 l_B ow_I er_E
+LOWEST 1.0 l_B ow_I ax_I s_I td_E
+M-CODE 1.0 eh_B m_I k_I ow_I dd_E
+M-CODES 1.0 eh_B m_I k_I ow_I dd_I z_E
+M-RATING 1.0 eh_B m_I r_I ey_I dx_I ih_I ng_E
+M-RATINGS 1.0 eh_B m_I r_I ey_I dx_I ih_I ng_I z_E
+M1 1.0 eh_B m_I w_I ah_I n_E
+M2 1.0 eh_B m_I t_I uw_E
+M3 1.0 eh_B m_I th_I r_I iy_E
+M4 1.0 eh_B m_I f_I ao_I r_E
+M5 1.0 eh_B m_I f_I ay_I v_E
+MADAGASCAR 1.0 m_B ae_I d_I ax_I g_I ae_I s_I k_I aa_I r_E
+MADE 1.0 m_B ey_I dd_E
+MAKE 1.0 m_B ey_I k_E
+MAKING 1.0 m_B ey_I k_I ih_I ng_E
+MANCHESTER 1.0 m_B ae_I n_I td_I ch_I ax_I s_I t_I er_E
+MANHATTAN 1.0 m_B ae_I n_I hh_I ae_I t_I ax_I n_E
+MANHATTAN+S 1.0 m_B ae_I n_I hh_I ae_I dx_I ax_I n_I z_E
+MANILA 1.0 m_B ax_I n_I ih_I l_I ax_E
+MANY 1.0 m_B eh_I n_I iy_E
+MARCH 1.0 m_B aa_I r_I td_I ch_E
+MARS 1.0 m_B aa_I r_I z_E
+MARS+S 1.0 m_B aa_I r_I z_E
+MAX 1.0 m_B ae_I k_I s_E
+MAXIMUM 1.0 m_B ae_I k_I s_I m_I ax_I m_E
+MAY 1.0 m_B ey_E
+MCCLUSKY 1.0 m_B ax_I k_I l_I ah_I s_I k_I iy_E
+MCCLUSKY+S 1.0 m_B ax_I k_I l_I ah_I s_I k_I iy_I z_E
+ME 1.0 m_B iy_E
+MEASURE 1.0 m_B ey_I sh_I er_E
+MERCATOR 1.0 m_B er_I k_I ey_I dx_I er_E
+MERCURY 1.0 m_B er_I k_I y_I er_I iy_E
+MERCURY+S 1.0 m_B er_I k_I y_I er_I iy_I z_E
+METEOR 1.0 m_B iy_I t_I iy_I er_E
+METEOR+S 1.0 m_B iy_I t_I iy_I er_I z_E
+METERS 1.0 m_B iy_I dx_I er_I z_E
+METRIC 1.0 m_B eh_I td_I ch_I r_I ax_I k_E
+MEXICO 1.0 m_B eh_I k_I s_I ax_I k_I ow_E
+MIAMI 1.0 m_B ay_I ae_I m_I iy_E
+MIDGETT 1.0 m_B ih_I dd_I jh_I ax_I td_E
+MIDGETT+S 1.0 m_B ih_I dd_I jh_I ax_I ts_E
+MIDPAC 1.0 m_B ih_I dd_I p_I ae_I k_E
+MIDPAC+S 1.0 m_B ih_I dd_I p_I ae_I k_I s_E
+MIDWAY 1.0 m_B ih_I d_I w_I ey_E
+MIDWAY+S 1.0 m_B ih_I d_I w_I ey_I z_E
+MILE 1.0 m_B ay_I el_E
+MILES 1.0 m_B ay_I el_I z_E
+MIND 1.0 m_B ay_I n_E
+MINUTES 1.0 m_B ih_I n_I ax_I ts_E
+MISHAWAKA 1.0 m_B ih_I sh_I ax_I w_I aa_I k_I ax_E
+MISHAWAKA+S 1.0 m_B ih_I sh_I ax_I w_I aa_I k_I ax_I z_E
+MISSION 1.0 m_B ih_I sh_I ax_I n_E
+MISSIONS 1.0 m_B ih_I sh_I en_I z_E
+MISSISSIPPI 1.0 m_B ih_I s_I ax_I s_I ih_I p_I iy_E
+MISSISSIPPI+S 1.0 m_B ih_I s_I ax_I s_I ih_I p_I iy_I z_E
+MIW 1.0 eh_B m_I ay_I d_I ah_I b_I y_I uw_E
+MOB 1.0 eh_B m_I ow_I b_I iy_E
+MONDAY 1.0 m_B ah_I n_I d_I ey_E
+MONDAY+S 1.0 m_B ah_I n_I d_I ey_I z_E
+MONGOLIA 1.0 m_B aa_I ng_I g_I ow_I l_I iy_I ax_E
+MONTH 1.0 m_B ah_I n_I th_E
+MONTH+S 1.0 m_B ah_I n_I th_I s_E
+MONTHS 1.0 m_B ah_I n_I th_I s_E
+MONTICELLO 1.0 m_B aa_I n_I ax_I s_I eh_I l_I ow_E
+MONTICELLO+S 1.0 m_B aa_I n_I ax_I s_I eh_I l_I ow_I z_E
+MORE 1.0 m_B ao_I r_E
+MOST 1.0 m_B ow_I s_I td_E
+MOZAMBIQUE 1.0 m_B ow_I z_I ae_I m_I b_I iy_I k_E
+MUCH 1.0 m_B ah_I td_I ch_E
+N92762 1.0 eh_B n_I n_I ay_I n_I t_I uw_I s_I eh_I v_I ax_I n_I s_I ih_I k_I s_I t_I uw_E
+NAME 1.0 n_B ey_I m_E
+NAMES 1.0 n_B ey_I m_I z_E
+NAPLES 1.0 n_B ey_I p_I el_I z_E
+NASHUA 1.0 n_B ae_I sh_I uw_I ax_E
+NASHUA+S 1.0 n_B ae_I sh_I uw_I ax_I z_E
+NEAR 1.0 n_B iy_I r_E
+NEARER 1.0 n_B iy_I r_I er_E
+NEAREST 1.0 n_B iy_I r_I ax_I s_I td_E
+NEVER 1.0 n_B eh_I v_I er_E
+NEW 1.0 n_B uw_E
+NEW-YORK 1.0 n_B uw_I y_I ao_I r_I k_E
+NEW-ZEALAND 1.0 n_B uw_I z_I iy_I l_I ax_I n_E
+NEWCASTLE 1.0 n_B uw_I k_I ae_I s_I el_E
+NEWER 1.0 n_B uw_I er_E
+NEWEST 1.0 n_B uw_I ax_I s_I td_E
+NEXT 1.0 n_B eh_I k_I s_I td_E
+NINE 1.0 n_B ay_I n_E
+NINETEEN 1.0 n_B ay_I n_I t_I iy_I n_E
+NINETEENTH 1.0 n_B ay_I n_I t_I iy_I n_I th_E
+NINETY 1.0 n_B ay_I n_I iy_E
+NINTH 1.0 n_B ay_I n_I th_E
+NO 1.0 n_B ow_E
+NOME 1.0 n_B ow_I m_E
+NORTH 1.0 n_B ao_I ax_I th_E
+NORTHERN 1.0 n_B ao_I r_I dh_I er_I n_E
+NOT 1.0 n_B aa_I td_E
+NOVA 1.0 n_B ow_I v_I ax_E
+NOVEMBER 1.0 n_B ow_I v_I eh_I m_I b_I er_E
+NOW 1.0 n_B aw_E
+NTDS 1.0 eh_B n_I t_I iy_I d_I iy_I eh_I s_E
+NUCLEAR 1.0 n_B uw_I k_I l_I iy_I er_E
+NUMBER 1.0 n_B ah_I m_I b_I er_E
+OAKLAND 1.0 ow_B k_I l_I ax_I n_E
+OCEAN 1.0 ow_B sh_I ax_I n_E
+OCTOBER 1.0 aa_B kd_I t_I ow_I b_I er_E
+OF 1.0 ax_B v_E
+OFF 1.0 ao_B f_E
+OLD 1.0 ow_B dx_E
+OLDER 1.0 ow_B d_I er_E
+OLDEST 1.0 ow_B l_I d_I ax_I s_I td_E
+OLYMPIA 1.0 ow_B l_I ih_I m_I p_I iy_I ax_E
+ON 1.0 aa_B n_E
+ONE 1.0 w_B ah_I n_E
+ONLY 1.0 ow_B n_I l_I iy_E
+OPEN 1.0 ow_B p_I ax_I n_E
+OR 1.0 ao_B r_E
+ORANGE 1.0 ao_B er_I n_I jh_E
+OSGP 1.0 ow_B eh_I s_I dd_I jh_I iy_I p_I iy_E
+OVERALL 1.0 ow_B v_I er_I ao_I l_E
+OVERLAY 1.0 ow_B v_I er_I l_I ey_E
+OVERLAYS 1.0 ow_B v_I er_I l_I ey_I z_E
+PAC 1.0 p_B ae_I k_E
+PACFLT 1.0 p_B ae_I k_I f_I l_I iy_I td_E
+PACIFIC 1.0 p_B ax_I s_I ih_I f_I ax_I k_E
+PANAMA 1.0 p_B ae_I n_I ax_I m_I aa_E
+PARAMETER 1.0 p_B er_I ae_I m_I ax_I dx_I er_E
+PARAMETERS 1.0 p_B er_I ae_I m_I ax_I dx_I er_I z_E
+PEARL 1.0 p_B er_I l_E
+PEORIA 1.0 p_B iy_I ao_I r_I iy_I ax_E
+PEORIA+S 1.0 p_B iy_I ao_I r_I iy_I ax_I z_E
+PERCENT 1.0 p_B er_I s_I eh_I n_E
+PERSIAN 1.0 p_B er_I sh_I ax_I n_E
+PERSONNEL 1.0 p_B er_I s_I ax_I n_I eh_I l_E
+PHILIPPINE 1.0 f_B ih_I l_I ax_I p_I iy_I n_E
+PHILIPPINES 1.0 f_B ih_I l_I ax_I p_I iy_I n_I z_E
+PIGEON 1.0 p_B ih_I dd_I jh_I ax_I n_E
+PIGEON+S 1.0 p_B ih_I dd_I jh_I ax_I n_I z_E
+PLH003 1.0 p_B iy_I eh_I l_I ey_I td_I ch_I z_I iy_I r_I ow_I z_I iy_I r_I ow_I th_I r_I iy_E
+PLUCK 1.0 p_B l_I ah_I k_E
+PLUCK+S 1.0 p_B l_I ah_I k_I s_E
+PLUNGER 1.0 p_B l_I ah_I n_I jh_I er_E
+PLUNGER+S 1.0 p_B l_I ah_I n_I jh_I er_I z_E
+POLLACK 1.0 p_B aa_I l_I ax_I k_E
+POLLACK+S 1.0 p_B aa_I l_I ax_I k_I s_E
+POLYNESIA 1.0 p_B aa_I l_I ax_I n_I iy_I sh_I ax_E
+PORT 1.0 p_B ao_I r_I td_E
+PORTS 1.0 p_B ao_I r_I ts_E
+POSIT 1.0 p_B aa_I z_I ax_I td_E
+POSITION 1.0 p_B ax_I z_I ih_I sh_I ax_I n_E
+POSITIONS 1.0 p_B ax_I z_I ih_I sh_I en_I z_E
+POSITS 1.0 p_B aa_I z_I ax_I ts_E
+POUGHKEEPSIE 1.0 p_B uw_I k_I ih_I p_I s_I iy_E
+POUGHKEEPSIE+S 1.0 p_B uw_I k_I ih_I p_I s_I iy_I z_E
+POWERED 1.0 p_B aw_I er_I dd_E
+PRAIRIE 1.0 p_B r_I eh_I r_I iy_E
+PRAIRIE+S 1.0 p_B r_I eh_I r_I iy_I z_E
+PRESENT 1.0 p_B r_I eh_I z_I ax_I n_E
+PREVIOUS 1.0 p_B r_I iy_I v_I iy_I ax_I s_E
+PROBLEM 1.0 p_B r_I aa_I b_I l_I ax_I m_E
+PROBLEMS 1.0 p_B r_I aa_I b_I l_I ax_I m_I z_E
+PROJECTION 1.0 p_B er_I dd_I jh_I eh_I k_I sh_I ax_I n_E
+PROPELLED 1.0 p_B er_I p_I eh_I l_I dd_E
+PROPULSION 1.0 p_B er_I p_I ah_I l_I sh_I ax_I n_E
+PUFFER 1.0 p_B ah_I f_I er_E
+PUFFER+S 1.0 p_B ah_I f_I er_I z_E
+PUGET-1 1.0 p_B y_I uw_I dd_I jh_I ax_I td_I w_I ah_I n_E
+QUARTER 1.0 k_B w_I ao_I r_I dx_I er_E
+QUARTERS 1.0 k_B w_I ao_I r_I dx_I er_I s_E
+QUEENFISH 1.0 k_B w_I iy_I n_I f_I ih_I sh_E
+QUEENFISH+S 1.0 k_B w_I iy_I n_I f_I ih_I sh_I ax_I z_E
+RADAR 1.0 r_B ey_I dx_I aa_I r_E
+RAMSEY 1.0 r_B ae_I m_I z_I iy_E
+RAMSEY+S 1.0 r_B ae_I m_I z_I iy_I z_E
+RANGER 1.0 r_B ey_I n_I jh_I er_E
+RANGER+S 1.0 r_B ey_I n_I jh_I er_I z_E
+RATED 1.0 r_B ey_I dx_I ax_I dd_E
+RATHBURNE 1.0 r_B ae_I th_I b_I er_I n_E
+RATHBURNE+S 1.0 r_B ae_I th_I b_I er_I n_I z_E
+RATING 1.0 r_B ey_I dx_I ih_I ng_E
+RATINGS 1.0 r_B ey_I dx_I ih_I ng_I z_E
+READINESS 1.0 r_B eh_I dx_I iy_I n_I ax_I s_E
+REASON 1.0 r_B iy_I z_I ax_I n_E
+REASONER 1.0 r_B iy_I z_I ax_I n_I er_E
+REASONER+S 1.0 r_B iy_I z_I ax_I n_I er_I z_E
+REASONS 1.0 r_B iy_I z_I en_I z_E
+RECENT 1.0 r_B iy_I s_I ax_I n_E
+RECLAIMER 1.0 r_B iy_I k_I l_I ey_I m_I er_E
+RECLAIMER+S 1.0 r_B iy_I k_I l_I ey_I m_I er_I z_E
+RED 1.0 r_B eh_I dd_E
+REDEFINE 1.0 r_B iy_I d_I iy_I f_I ay_I n_E
+REDEFINED 1.0 r_B iy_I d_I iy_I f_I ay_I n_E
+REDEFINING 1.0 r_B iy_I d_I iy_I f_I ay_I n_I ih_I ng_E
+REDISPLAY 1.0 r_B iy_I d_I ax_I s_I p_I l_I ey_E
+REDO 1.0 r_B iy_I d_I uw_E
+REDRAW 1.0 r_B iy_I dd_I jh_I r_I ao_E
+REEVES 1.0 r_B iy_I v_I z_E
+REEVES+S 1.0 r_B iy_I v_I z_E
+REMAINING 1.0 r_B iy_I m_I ey_I n_I ih_I ng_E
+REMARK 1.0 r_B iy_I m_I aa_I r_I k_E
+REMARKS 1.0 r_B iy_I m_I aa_I r_I k_I s_E
+REPAIR 1.0 r_B iy_I p_I eh_I r_E
+REPAIRED 1.0 r_B iy_I p_I eh_I r_I dd_E
+REPAIRING 1.0 r_B iy_I p_I eh_I r_I ih_I ng_E
+REPLACED 1.0 r_B iy_I p_I l_I ey_I s_I td_E
+REPORT 1.0 r_B iy_I p_I ao_I r_I td_E
+REPORTED 1.0 r_B iy_I p_I ao_I r_I dx_I ax_I dd_E
+REPORTING 1.0 r_B iy_I p_I ao_I r_I dx_I ih_I ng_E
+REPORTS 1.0 r_B iy_I p_I ao_I r_I ts_E
+RESET 1.0 r_B iy_I s_I eh_I td_E
+RESOLUTION 1.0 r_B eh_I z_I ax_I l_I uw_I sh_I ax_I n_E
+RESOLVED 1.0 r_B iy_I z_I ao_I l_I v_I dd_E
+RESOURCE 1.0 r_B iy_I s_I ao_I r_I s_E
+RESOURCES 1.0 r_B iy_I s_I ao_I r_I s_I ax_I z_E
+REVIEW 1.0 r_B iy_I v_I y_I uw_E
+ROSS 1.0 r_B ao_E
+SACRAMENTO 1.0 s_B ae_I k_I er_I m_I eh_I n_I t_I ow_E
+SACRAMENTO+S 1.0 s_B ae_I k_I er_I m_I eh_I n_I t_I ow_I z_E
+SAIL 1.0 s_B ey_I l_E
+SAME 1.0 s_B ey_I m_E
+SAMPLE 1.0 s_B ae_I m_I p_I el_E
+SAMPLE+S 1.0 s_B ae_I m_I p_I el_I z_E
+SAN-DIEGO 1.0 s_B ae_I n_I d_I iy_I ey_I g_I ow_E
+SAN-FRAN 1.0 s_B ae_I n_I f_I r_I ae_I n_E
+SASSAFRAS 1.0 s_B ae_I s_I ax_I f_I r_I ae_I s_E
+SASSAFRAS+S 1.0 s_B ae_I s_I ax_I f_I r_I ae_I s_I ax_I z_E
+SATURDAY 1.0 s_B ae_I dx_I er_I d_I ey_E
+SATURDAY+S 1.0 s_B ae_I dx_I er_I d_I ey_I z_E
+SAVE 1.0 s_B ey_I v_E
+SCHENECTADY 1.0 s_B k_I ax_I n_I eh_I kd_I t_I ax_I dx_I iy_E
+SCHENECTADY+S 1.0 s_B k_I ax_I n_I eh_I kd_I t_I ax_I dx_I iy_I z_E
+SCREEN 1.0 s_B k_I r_I iy_I n_E
+SCREENS 1.0 s_B k_I r_I iy_I n_I z_E
+SEA 1.0 s_B iy_E
+SEAWOLF 1.0 s_B iy_I w_I uh_I l_I f_E
+SEAWOLF+S 1.0 s_B iy_I w_I uh_I l_I f_I s_E
+SECOND 1.0 s_B eh_I k_I ax_I n_E
+SECURITY 1.0 s_B ax_I k_I y_I er_I ax_I dx_I iy_E
+SENSOR 1.0 s_B eh_I n_I s_I er_E
+SENSORS 1.0 s_B eh_I n_I s_I er_I z_E
+SEPTEMBER 1.0 s_B ax_I pd_I t_I eh_I m_I b_I er_E
+SET 1.0 s_B eh_I td_E
+SETTING 1.0 s_B eh_I dx_I ih_I ng_E
+SETTINGS 1.0 s_B eh_I dx_I ih_I ng_I z_E
+SEVEN 1.0 s_B eh_I v_I ax_I n_E
+SEVENTEEN 1.0 s_B eh_I v_I ax_I n_I t_I iy_I n_E
+SEVENTEENTH 1.0 s_B eh_I v_I ax_I n_I t_I iy_I n_I th_E
+SEVENTH 1.0 s_B eh_I v_I ax_I n_I th_E
+SEVENTY 1.0 s_B eh_I v_I ax_I n_I iy_E
+SHASTA 1.0 sh_B ae_I s_I t_I ax_E
+SHASTA+S 1.0 sh_B ae_I s_I t_I ax_I z_E
+SHE 1.0 sh_B iy_E
+SHE+S 1.0 sh_B iy_I z_E
+SHERMAN 1.0 sh_B er_I m_I ax_I n_E
+SHERMAN+S 1.0 sh_B er_I m_I ax_I n_I z_E
+SHIP 1.0 sh_B ih_I p_E
+SHIPS 1.0 sh_B ih_I p_I s_E
+SHIPS+S 1.0 sh_B ih_I p_I s_E
+SHOW 1.0 sh_B ow_E
+SHOWING 1.0 sh_B ow_I ih_I ng_E
+SHOWN 1.0 sh_B ow_I n_E
+SIBERIAN 1.0 s_B ay_I b_I iy_I r_I iy_I ax_I n_E
+SIDNEY 1.0 s_B ih_I dd_I n_I iy_E
+SINCE 1.0 s_B ih_I n_I s_E
+SINGAPORE 1.0 s_B ih_I ng_I ax_I p_I ao_I r_E
+SIX 1.0 s_B ih_I k_I s_E
+SIXTEEN 1.0 s_B ih_I k_I s_I t_I iy_I n_E
+SIXTEENTH 1.0 s_B ih_I k_I s_I t_I iy_I n_I th_E
+SIXTH 1.0 s_B ih_I k_I s_I th_E
+SIXTY 1.0 s_B ih_I k_I s_I t_I iy_E
+SIZE 1.0 s_B ay_I z_E
+SLOW 1.0 s_B l_I ow_E
+SLOWER 1.0 s_B l_I ow_I er_E
+SLOWEST 1.0 s_B l_I ow_I ax_I s_I td_E
+SLQ-32 1.0 eh_B s_I eh_I l_I k_I y_I uw_I th_I er_I dx_I iy_I t_I uw_E
+SMALL 1.0 s_B m_I ao_I l_E
+SMALLER 1.0 s_B m_I ao_I l_I er_E
+SMALLEST 1.0 s_B m_I ao_I l_I ax_I s_I td_E
+SOHO 1.0 s_B ow_I hh_I ow_E
+SOLOMON 1.0 s_B ao_I l_I ax_I m_I ax_I n_E
+SONAR 1.0 s_B ow_I n_I aa_I r_E
+SOON 1.0 s_B uw_I n_E
+SOONER 1.0 s_B uw_I n_I er_E
+SOUTH 1.0 s_B aw_I th_E
+SOUTHERN 1.0 s_B ah_I dh_I er_I n_E
+SOVIET 1.0 s_B ow_I v_I iy_I ax_I td_E
+SPEED 1.0 s_B p_I iy_I dd_E
+SPEEDS 1.0 s_B p_I iy_I dd_I z_E
+SPS-40 1.0 eh_B s_I p_I iy_I eh_I s_I f_I ao_I r_I dx_I iy_E
+SPS-48 1.0 eh_B s_I p_I iy_I eh_I s_I f_I ao_I r_I dx_I iy_I ey_I td_E
+SQQ-23 1.0 eh_B s_I k_I y_I uw_I k_I y_I uw_I t_I w_I eh_I n_I iy_I th_I r_I iy_E
+START 1.0 s_B t_I aa_I r_I td_E
+STARTED 1.0 s_B t_I aa_I r_I dx_I ax_I dd_E
+STARTING 1.0 s_B t_I aa_I r_I dx_I ih_I ng_E
+STATES 1.0 s_B t_I ey_I ts_E
+STATION 1.0 s_B t_I ey_I sh_I ax_I n_E
+STATUS 1.0 s_B t_I ey_I dx_I ax_I s_E
+STEAM 1.0 s_B t_I iy_I m_E
+STEREOGRAPHIC 1.0 s_B t_I eh_I r_I iy_I ow_I g_I r_I ae_I f_I ax_I k_E
+STERETT 1.0 s_B t_I eh_I r_I ax_I td_E
+STERETT+S 1.0 s_B t_I eh_I r_I ax_I ts_E
+STRAIT 1.0 s_B td_I ch_I r_I ey_I td_E
+SUB 1.0 s_B ah_I b_E
+SUB+S 1.0 s_B ah_I b_I z_E
+SUBIC 1.0 s_B uw_I b_I ax_I k_E
+SUBMARINE 1.0 s_B ah_I b_I m_I er_I iy_I n_E
+SUBMARINE+S 1.0 s_B ah_I b_I m_I er_I iy_I n_I z_E
+SUBMARINES 1.0 s_B ah_I b_I m_I er_I iy_I n_I z_E
+SUBS 1.0 s_B ah_I b_I z_E
+SUFFICIENT 1.0 s_B ax_I f_I ih_I sh_I ax_I n_E
+SUMMARIZE 1.0 s_B ah_I m_I er_I ay_I z_E
+SUNDAY 1.0 s_B ah_I n_I d_I ey_E
+SUNDAY+S 1.0 s_B ah_I n_I d_I ey_I z_E
+SUPPLIES 1.0 s_B ax_I p_I l_I ay_I z_E
+SUPPLY 1.0 s_B ax_I p_I l_I ay_E
+SUPPOSED 1.0 s_B ax_I p_I ow_I z_E
+SURFACE 1.0 s_B er_I f_I ax_I s_E
+SUSTAINED 1.0 s_B ax_I s_I t_I ey_I n_E
+SWITCH 1.0 s_B w_I ih_I td_I ch_E
+SWITCHES 1.0 s_B w_I ih_I td_I ch_I ax_I z_E
+SWORDFISH 1.0 s_B ao_I r_I d_I f_I ih_I sh_E
+SWORDFISH+S 1.0 s_B ao_I r_I dd_I f_I ih_I sh_I ax_I z_E
+SYSTEM 1.0 s_B ih_I s_I t_I ax_I m_E
+T-LAM 1.0 t_B iy_I l_I ae_I m_E
+TACAN 1.0 t_B ae_I k_I ae_I n_E
+TAIWAN 1.0 t_B ay_I w_I aa_I n_E
+TAKE 1.0 t_B ey_I k_E
+TAKEN 1.0 t_B ey_I k_I ax_I n_E
+TASM 1.0 t_B ae_I s_I ax_I m_E
+TEN 1.0 t_B eh_I n_E
+TENTH 1.0 t_B eh_I n_I th_E
+TEST 1.0 t_B eh_I s_I td_E
+TEXAS 1.0 t_B eh_I k_I s_I ax_I s_E
+TEXAS+S 1.0 t_B eh_I k_I s_I ax_I s_I ax_I z_E
+TFCC 1.0 t_B iy_I eh_I f_I s_I iy_I s_I iy_E
+THAILAND 1.0 t_B ay_I l_I ae_I n_E
+THAN 1.0 dh_B ae_I n_E
+THAT 1.0 dh_B ae_I td_E
+THE 1.0 dh_B ax_E
+THEIR 1.0 dh_B eh_I r_E
+THEM 1.0 dh_B eh_I m_E
+THERE 1.0 dh_B eh_I r_E
+THESE 1.0 dh_B iy_I z_E
+THEY 1.0 dh_B ey_E
+THIRD 1.0 th_B er_I dd_E
+THIRTEEN 1.0 th_B er_I t_I iy_I n_E
+THIRTEENTH 1.0 th_B er_I t_I iy_I n_I th_E
+THIRTIETH 1.0 th_B er_I dx_I iy_I ax_I th_E
+THIRTY 1.0 th_B er_I dx_I iy_E
+THIS 1.0 dh_B ih_I s_E
+THOSE 1.0 dh_B ow_I z_E
+THOUSAND 1.0 th_B aw_I z_I ax_I n_E
+THREAT 1.0 th_B r_I eh_I td_E
+THREATS 1.0 th_B r_I eh_I ts_E
+THREE 1.0 th_B r_I iy_E
+THURSDAY 1.0 th_B er_I z_I d_I ey_E
+THURSDAY+S 1.0 th_B er_I z_I d_I ey_I z_E
+TICONDEROGA 1.0 t_B ay_I k_I aa_I n_I d_I er_I ow_I g_I ax_E
+TICONDEROGA+S 1.0 t_B ay_I k_I aa_I n_I d_I er_I ow_I g_I ax_I z_E
+TIME 1.0 t_B ay_I m_E
+TIMES 1.0 t_B ay_I m_I z_E
+TO 1.0 t_B uw_E
+TODAY 1.0 t_B ax_I d_I ey_E
+TODAY+S 1.0 t_B ax_I d_I ey_I z_E
+TOGGLE 1.0 t_B aa_I g_I el_E
+TOGGLED 1.0 t_B aa_I g_I el_I dd_E
+TOGGLING 1.0 t_B aa_I g_I el_I ih_I ng_E
+TOKYO 1.0 t_B ow_I k_I iy_I ow_E
+TOMORROW 1.0 t_B ax_I m_I ao_I r_I ow_E
+TOMORROW+S 1.0 t_B ax_I m_I ao_I r_I ow_I z_E
+TONKIN 1.0 t_B ao_I ng_I k_I ax_I n_E
+TONS 1.0 t_B ah_I n_I z_E
+TOTAL 1.0 t_B ow_I dx_I el_E
+TOWNSVILLE 1.0 t_B aw_I n_I z_I v_I el_E
+TRACK 1.0 td_B ch_I r_I ae_I k_E
+TRACKS 1.0 td_B ch_I r_I ae_I k_I s_E
+TRAINING 1.0 td_B ch_I r_I ey_I n_I ih_I ng_E
+TRIPOLI 1.0 td_B ch_I r_I ih_I p_I ow_I l_I iy_E
+TRIPOLI+S 1.0 td_B ch_I r_I ih_I p_I ow_I l_I iy_I z_E
+TRUE-VIEW 1.0 td_B ch_I r_I uw_I v_I y_I uw_E
+TUESDAY 1.0 t_B uw_I z_I d_I ey_E
+TUESDAY+S 1.0 t_B uw_I z_I d_I ey_I z_E
+TURBINE 1.0 t_B er_I b_I ax_I n_E
+TURN 1.0 t_B er_I n_E
+TURNED 1.0 t_B er_I n_E
+TURNING 1.0 t_B er_I n_I ih_I ng_E
+TUSCALOOSA 1.0 t_B ah_I s_I k_I ax_I l_I uw_I s_I ax_E
+TUSCALOOSA+S 1.0 t_B ah_I s_I k_I ax_I l_I uw_I s_I ax_I z_E
+TWELFTH 1.0 t_B w_I eh_I l_I f_I th_E
+TWELVE 1.0 t_B w_I eh_I l_I v_E
+TWENTIETH 1.0 t_B w_I ah_I n_I iy_I ax_I th_E
+TWENTY 1.0 t_B w_I ah_I n_I iy_E
+TWO 1.0 t_B uw_E
+TYPE 1.0 t_B ay_I p_E
+TYPES 1.0 t_B ay_I p_I s_E
+UNION 1.0 y_B uw_I n_I y_I ax_I n_E
+UNIT 1.0 y_B uw_I n_I ax_I td_E
+UNITED 1.0 y_B uw_I n_I ay_I dx_I ax_I dd_E
+UNTIL 1.0 ax_B n_I t_I ih_I l_E
+UOM 1.0 y_B uw_I ow_I eh_I m_E
+UPDATE 1.0 ah_B pd_I d_I ey_I td_E
+UPDATED 1.0 ah_B pd_I d_I ey_I dx_I ax_I dd_E
+UPDATES 1.0 ah_B pd_I d_I ey_I ts_E
+UPGRADE 1.0 ah_B pd_I g_I r_I ey_I dd_E
+UPGRADED 1.0 ah_B pd_I g_I r_I ey_I dx_I ax_I dd_E
+USA 1.0 y_B uw_I eh_I s_I ey_E
+USE 1.0 y_B uw_I z_E
+USING 1.0 y_B uw_I z_I ih_I ng_E
+USN 1.0 y_B uw_I eh_I s_I eh_I n_E
+VALUE 1.0 v_B ae_I l_I y_I uw_E
+VALUES 1.0 v_B ae_I l_I y_I uw_I z_E
+VANCOUVER 1.0 v_B ae_I ng_I k_I uw_I v_I er_E
+VANCOUVER+S 1.0 v_B ae_I ng_I k_I uw_I v_I er_I z_E
+VANDERGRIFT 1.0 v_B ae_I n_I d_I er_I g_I r_I ih_I f_I td_E
+VANDERGRIFT+S 1.0 v_B ae_I n_I d_I er_I g_I r_I ih_I f_I ts_E
+VARIOUS 1.0 v_B eh_I r_I iy_I ax_I s_E
+VESSEL 1.0 v_B eh_I s_I el_E
+VESSELS 1.0 v_B eh_I s_I el_I z_E
+VICTORIA 1.0 v_B ax_I kd_I t_I ao_I r_I iy_I ax_E
+VIRGINIA 1.0 v_B er_I dd_I jh_I ih_I n_I y_I ax_E
+VIRGINIA+S 1.0 v_B er_I dd_I jh_I ih_I n_I y_I ax_I z_E
+VISUAL 1.0 v_B ih_I sh_I uw_I el_E
+WABASH 1.0 w_B aa_I b_I ae_I sh_E
+WABASH+S 1.0 w_B aa_I b_I ae_I sh_I ax_I z_E
+WADSWORTH 1.0 w_B aa_I dd_I z_I w_I er_I th_E
+WADSWORTH+S 1.0 w_B aa_I dd_I z_I w_I er_I th_I s_E
+WAS 1.0 w_B ah_I z_E
+WASN+T 1.0 w_B ah_I z_I ax_I n_E
+WASP 1.0 w_B aa_I s_I p_E
+WASP+S 1.0 w_B aa_I s_I p_I s_E
+WE 1.0 w_B iy_E
+WEDNESDAY 1.0 w_B eh_I n_I z_I d_I ey_E
+WEDNESDAY+S 1.0 w_B eh_I n_I z_I d_I ey_I z_E
+WEEK 1.0 w_B iy_I k_E
+WEEK+S 1.0 w_B iy_I k_I s_E
+WEEKS 1.0 w_B iy_I k_I s_E
+WELLINGTON 1.0 w_B eh_I l_I ax_I ng_I t_I ax_I n_E
+WENT 1.0 w_B eh_I n_E
+WERE 1.0 w_B er_E
+WEREN+T 1.0 w_B er_I n_E
+WEST 1.0 w_B eh_I s_I td_E
+WESTERN 1.0 w_B eh_I s_I t_I er_I n_E
+WESTPAC 1.0 w_B eh_I s_I p_I ae_I k_E
+WESTPAC+S 1.0 w_B eh_I s_I p_I ae_I k_I s_E
+WHAT 1.0 w_B ah_I td_E
+WHAT+RE 1.0 w_B ah_I dx_I er_E
+WHAT+S 1.0 w_B ah_I ts_E
+WHEN 1.0 w_B eh_I n_E
+WHEN+LL 1.0 w_B eh_I n_I el_E
+WHEN+S 1.0 w_B eh_I n_I z_E
+WHERE 1.0 w_B eh_I r_E
+WHERE+S 1.0 w_B eh_I r_I z_E
+WHICH 1.0 w_B ih_I td_I ch_E
+WHIPPLE 1.0 w_B ih_I p_I el_E
+WHIPPLE+S 1.0 w_B ih_I p_I el_I z_E
+WHO 1.0 hh_B uw_E
+WHO+S 1.0 hh_B uw_I z_E
+WHOSE 1.0 hh_B uw_I z_E
+WHY 1.0 w_B ay_E
+WHY+S 1.0 w_B ay_I z_E
+WICHITA 1.0 w_B ih_I td_I ch_I ax_I t_I ao_E
+WICHITA+S 1.0 w_B ih_I td_I ch_I ax_I t_I ao_I z_E
+WILL 1.0 w_B el_E
+WILLAMETTE 1.0 w_B ih_I l_I ax_I m_I eh_I td_E
+WILLAMETTE+S 1.0 w_B ih_I l_I ax_I m_I eh_I ts_E
+WINAMAC 1.0 w_B ih_I n_I ax_I m_I ae_I k_E
+WINAMAC+S 1.0 w_B ih_I n_I ax_I m_I ae_I k_I s_E
+WINDOW 1.0 w_B ih_I n_I d_I ow_E
+WINDOWS 1.0 w_B ih_I n_I d_I ow_I z_E
+WITH 1.0 w_B ax_I th_E
+WITHIN 1.0 w_B ax_I th_I ih_I n_E
+WITHOUT 1.0 w_B ax_I th_I aw_I td_E
+WON+T 1.0 w_B ow_I n_E
+WORSE 1.0 w_B er_I s_E
+WORST 1.0 w_B er_I s_I td_E
+WOULD 1.0 w_B uh_I dd_E
+WOULDN+T 1.0 w_B uh_I d_I ax_I n_E
+YANKEE 1.0 y_B ae_I ng_I k_I iy_E
+YEAR 1.0 y_B iy_I r_E
+YEARS 1.0 y_B iy_I ax_I z_E
+YELLOW 1.0 y_B eh_I l_I ow_E
+YESTERDAY 1.0 y_B eh_I s_I t_I er_I d_I ey_E
+YESTERDAY+S 1.0 y_B eh_I s_I t_I er_I dx_I iy_I z_E
+YET 1.0 y_B eh_I td_E
+YORKTOWN 1.0 y_B ao_I r_I kd_I t_I aw_I n_E
+YORKTOWN+S 1.0 y_B ao_I r_I kd_I t_I aw_I n_I z_E
+ZULU 1.0 z_B uw_I l_I uw_E
+!SIL 1.0 sil_S

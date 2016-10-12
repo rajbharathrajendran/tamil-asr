@@ -1,0 +1,11 @@
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/train/wav_train.3.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/data/train/data/raw_mfcc_train.3.ark,/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/data/train/data/raw_mfcc_train.3.scp 
+# Started at Wed Sep 28 00:54:47 PDT 2016
+#
+copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/data/train/data/raw_mfcc_train.3.ark,/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/data/train/data/raw_mfcc_train.3.scp 
+compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/train/wav_train.3.scp ark:- 
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key ranjini_1_2_3
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key ranjini_4_8_7
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:181)  Done 2 out of 2 utterances.
+LOG (copy-feats:main():copy-feats.cc:120) Copied 2 feature matrices.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Wed Sep 28 00:54:48 PDT 2016, elapsed time 1 seconds

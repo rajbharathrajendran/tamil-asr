@@ -1,0 +1,18 @@
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.1.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/mfcc/raw_mfcc_test.1.ark,/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/mfcc/raw_mfcc_test.1.scp 
+# Started at Wed Oct 12 00:02:13 PDT 2016
+#
+copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/mfcc/raw_mfcc_test.1.ark,/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/mfcc/raw_mfcc_test.1.scp 
+compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.1.scp ark:- 
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key raj_1_2_5
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key raj_9_3_4
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key ranjini_1_2_3
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key ranjini_22_23_24
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key ranjini_4_8_7
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key ranjini_5_9_3
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key ranjini_9_3_5
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key sindhu_3_5_1
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key sindhu_4_2_8
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:181)  Done 9 out of 9 utterances.
+LOG (copy-feats:main():copy-feats.cc:120) Copied 9 feature matrices.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Wed Oct 12 00:02:13 PDT 2016, elapsed time 0 seconds

@@ -1,0 +1,182 @@
+# gmm-latgen-faster --max-active=7000 --beam=20.0 --lattice-beam=10.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split20/5/utt2spk scp:data/test/split20/5/cmvn.scp scp:data/test/split20/5/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/mono/decode/lat.5.gz" 
+# Started at Sun Sep 11 00:58:26 PDT 2016
+#
+gmm-latgen-faster --max-active=7000 --beam=20.0 --lattice-beam=10.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split20/5/utt2spk scp:data/test/split20/5/cmvn.scp scp:data/test/split20/5/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/mono/decode/lat.5.gz' 
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split20/5/utt2spk scp:data/test/split20/5/cmvn.scp scp:data/test/split20/5/feats.scp ark:- 
+cmh18_st0058_feb89 WHAT+S THE OVERALL RESOURCE RATING AND DESTINATION OF SACRAMENTO 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0058_feb89 is -8.52145 over 366 frames.
+cmh18_st0128_feb89 SET THE SPEED OF AJAX GREATER THAN EIGHTEEN KNOTS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0128_feb89 is -8.44069 over 322 frames.
+cmh18_st0190_feb89 HOW SOON WILL FLINT BE UPGRADED ON ASW MISSION READINESS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0190_feb89 is -8.52117 over 364 frames.
+cmh18_st0280_feb89 WEREN+T MORE THAN EIGHT SUBMARINES EMPLOYED IN EIGHTY TWO 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0280_feb89 is -8.73186 over 254 frames.
+cmh18_st0357_feb89 CLEAR ALL WINDOWS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0357_feb89 is -8.18134 over 125 frames.
+cmh18_st0426_feb89 IS YORKTOWN+S MOB AREA M-RATING BELOW POUGHKEEPSIE+S 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0426_feb89 is -8.38191 over 400 frames.
+cmh18_st0497_feb89 ISN+T JARRETT EQUIPPED WITH NTDS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0497_feb89 is -8.58997 over 272 frames.
+cmh18_st0560_feb89 TOTAL THE STEAM POWERED CARRIERS IN ROSS SEA 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0560_feb89 is -8.41384 over 284 frames.
+cmh18_st0634_feb89 DRAW TRACK DDD992 IN DIM GREEN 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0634_feb89 is -8.04521 over 434 frames.
+cmh18_st0710_feb89 GET NAMES AND RESOURCES OF PHILIPPINE SEA SHIPS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0710_feb89 is -8.42468 over 303 frames.
+cmh18_st0809_feb89 WHAT IS THE MOST RECENT POSIT 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0809_feb89 is -8.45195 over 206 frames.
+cmh18_st0909_feb89 HAS FLINT CHOP TO EIGHTY THREE LATS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0909_feb89 is -8.75996 over 250 frames.
+cmh18_st0991_feb89 WHAT TRAINING PROBLEM FOR METEOR BE RESOLVED 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st0991_feb89 is -8.73383 over 280 frames.
+cmh18_st1046_feb89 WHEN DID PLUNGER CHOP TO ATLANTIC FLEET 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1046_feb89 is -8.67712 over 229 frames.
+cmh18_st1134_feb89 CAN THE DATA SCREENS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1134_feb89 is -8.4799 over 127 frames.
+cmh18_st1192_feb89 HOW MANY CARRIERS WERE IN ATLANTIC CITY ON MARCH ELEVEN 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1192_feb89 is -8.54611 over 308 frames.
+cmh18_st1283_feb89 HOW NEAR IS IT TAKE PIGEON TO GET TO ELEVEN NORTH NINETY WEST 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1283_feb89 is -8.65278 over 411 frames.
+cmh18_st1355_feb89 WHAT+S CONQUEST+S DESTINATION 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1355_feb89 is -8.33407 over 231 frames.
+cmh18_st1427_feb89 FIND LOCATIONS AND NAMES OF SHIPS IN ROSS SEA 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1427_feb89 is -8.27411 over 335 frames.
+cmh18_st1488_feb89 DRAW MONGOLIA WITH YANKEE 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1488_feb89 is -8.68369 over 177 frames.
+cmh18_st1554_feb89 WHAT CAPABILITIES DOES PIGEON HAVE 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1554_feb89 is -8.54751 over 234 frames.
+cmh18_st1617_feb89 SHOW ALL ALERTS WITHIN THE LAT SIXTEEN HOURS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1617_feb89 is -8.4642 over 265 frames.
+cmh18_st1713_feb89 FIND SUBS IN THEIR FLEET IDENTIFICATIONS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1713_feb89 is -8.38762 over 294 frames.
+cmh18_st1777_feb89 WHICH CARRIERS HAVE CATEGORY TWO CASUALTY REPORTS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1777_feb89 is -8.49122 over 317 frames.
+cmh18_st1857_feb89 COUNT THE CHART OF SIBERIAN SEA 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1857_feb89 is -8.427 over 192 frames.
+cmh18_st1942_feb89 WHY DID PLUCK+S AAW MISSION AREA RATING DEGRADED AUGUST TWO 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st1942_feb89 is -8.14283 over 450 frames.
+cmh18_st2015_feb89 WHICH VESSELS IN ALEXANDRIA ARE C2 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st2015_feb89 is -8.66469 over 249 frames.
+cmh18_st2080_feb89 DOES CLEVELAND HAVE ANY CATEGORY TWO OR CATEGORY THREE PROBLEMS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st2080_feb89 is -8.5176 over 381 frames.
+cmh18_st2155_feb89 DO ANY SHIPS IN KOREAN BAY HAVE AN M2 AAW MISSION AREA 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st2155_feb89 is -8.23884 over 512 frames.
+cmh18_st2209_feb89 DISPLAY NEW CHART PROJECTION USING STEREOGRAPHIC 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmh18_st2209_feb89 is -8.20416 over 316 frames.
+cmr02_st0088_oct87 REVIEW ALERTS WITHIN THE LAST TEN HOURS FOR SHIPS THAT ARE IN GULF OF ALASKA 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0088_oct87 is -8.44163 over 497 frames.
+cmr02_st0101_oct87 WAS THE ETA AT HER DESTINATION OF FANNING 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0101_oct87 is -8.49435 over 351 frames.
+cmr02_st0183_oct87 WHEN IS THE NAME AND C-CODE OF CARRIER IN SIBERIAN SEA 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0183_oct87 is -8.58026 over 415 frames.
+cmr02_st0222_oct87 DECREASE LETTER SIZE BY ONE 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0222_oct87 is -8.3683 over 232 frames.
+cmr02_st0273_oct87 HOW MANY VESSELS IN CHINA SEA HAVE ASUW M-RATINGS LOWER THAN M3 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0273_oct87 is -8.32309 over 674 frames.
+cmr02_st0344_oct87 DRAW CHART OF ROSS SEA 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0344_oct87 is -8.18352 over 190 frames.
+cmr02_st0483_oct87 SHOW POSITS OF FRIGATES THAT ARE IN WESTPAC 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0483_oct87 is -8.43519 over 301 frames.
+cmr02_st0512_oct87 LIST CONIFER+S HOME PORT JUNE TWENTY SIXTH HAVE THIRD 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0512_oct87 is -8.6985 over 353 frames.
+cmr02_st0527_oct87 DEFINE AREA 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0527_oct87 is -8.12608 over 103 frames.
+cmr02_st0603_oct87 IS ANYBODY IN WESTPAC NTDS CAPABLE 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0603_oct87 is -8.39874 over 351 frames.
+cmr02_st0617_oct87 THE SHASTA HAVE ENOUGH FUEL TO ARRIVE AT HER DESTINATION 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0617_oct87 is -8.32176 over 342 frames.
+cmr02_st0650_oct87 REDEFINE AREA PAC 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0650_oct87 is -8.27711 over 203 frames.
+cmr02_st0663_oct87 GET DESTINATIONS AND ARRIVAL HOUR AT DESTINATION FOR ALL SUBS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0663_oct87 is -8.50864 over 482 frames.
+cmr02_st0685_oct87 DISPLAY TRACKS FOR PLUNGER AND FOR POLLACK 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0685_oct87 is -8.37837 over 329 frames.
+cmr02_st0702_oct87 FIND FULL POSITION DATA FOR ALL TRACKS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0702_oct87 is -8.42025 over 303 frames.
+cmr02_st0718_oct87 REVIEW THE LAST ALERT FOR POUGHKEEPSIE 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0718_oct87 is -8.64324 over 219 frames.
+cmr02_st0747_oct87 DO ANY SHIPS THREE BASS STRAIT HAVE MORE FUEL THAN HER 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0747_oct87 is -8.44347 over 363 frames.
+cmr02_st0759_oct87 SHOW CARRIERS THAT RANGER IN SEA AND M3 ON MIW 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0759_oct87 is -8.41732 over 496 frames.
+cmr02_st0774_oct87 FIND ANY SHIPS THAT ARE IN SOUTH PHILIPPINE SEA AND RATED M5 ON AAW 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0774_oct87 is -8.40725 over 564 frames.
+cmr02_st0804_oct87 WHAT SHIPS ARE REPORTING M2 ON MOB 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0804_oct87 is -8.6806 over 339 frames.
+cmr02_st0837_oct87 WOULDN+T IT HAVE TAKEN LONGER WITH CAMPBELL 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0837_oct87 is -8.54776 over 250 frames.
+cmr02_st0850_oct87 DISPLAY TRACKS OF ANY CRUISERS IN EASTPAC 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0850_oct87 is -8.64016 over 326 frames.
+cmr02_st0862_oct87 DISPLAY LENGTHS AND BEAMS FOR SHIPS THAT ARE IN ATLANTIC CITY 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0862_oct87 is -8.49304 over 416 frames.
+cmr02_st0880_oct87 CAN MISSISSIPPI ARRIVE IN PORT BY TOMORROW 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0880_oct87 is -8.47003 over 289 frames.
+cmr02_st0898_oct87 ON WHAT DAY COULD DUBUQUE ARRIVE IN PORT AT HIS MAXIMUM SUSTAINED SPEED 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance cmr02_st0898_oct87 is -8.48815 over 503 frames.
+crz07_st0049_oct89 WHAT IS IN OVERALL READINESS OF POUGHKEEPSIE+S 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0049_oct89 is -8.58698 over 277 frames.
+crz07_st0122_oct89 HOW MANY CAT-2 CASREPS ARE THERE FOR SUBMARINES THAT ARE IN BASS STRAIT 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0122_oct89 is -8.24372 over 566 frames.
+crz07_st0182_oct89 DID THE DENVER REPORT ANY SUPPLIES PROBLEM JULY ONE 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0182_oct89 is -8.69434 over 361 frames.
+crz07_st0276_oct89 WEREN+T THERE MORE THAN EIGHTY FIVE VESSELS THE SEA ON THIRTY FIRST OCTOBER 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0276_oct89 is -8.63463 over 454 frames.
+crz07_st0343_oct89 GRIDLEY+S ESTIMATED TIME OF ARRIVAL IN HOME PORT FOR SHERMAN 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0343_oct89 is -8.40822 over 397 frames.
+crz07_st0421_oct89 DISPLAY MIDGETT+S POSITION USING OVERLAY YANKEE 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0421_oct89 is -8.53393 over 303 frames.
+crz07_st0490_oct89 ISN+T SWORDFISH AN CHINA SEA 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0490_oct89 is -8.66857 over 213 frames.
+crz07_st0554_oct89 HOW MUCH DOES INCLUDING MONDAY+S DATA CHANGE THAT FIGURE 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0554_oct89 is -8.01182 over 463 frames.
+crz07_st0623_oct89 WHERE+S TRIPOLI BE CHOPPING TO ATLANTIC FLEET TODAY 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0623_oct89 is -8.73847 over 291 frames.
+crz07_st0705_oct89 REVIEW MCCLUSKY+S LAST EIGHT POSITIONS IN FORMOSA STRAIT 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0705_oct89 is -8.5586 over 394 frames.
+crz07_st0799_oct89 HAVE NOT MORE THAN SEVEN VESSELS BEEN IN THEIR HOME PORTS SINCE THIRTEEN SEPTEMBER 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0799_oct89 is -8.74322 over 507 frames.
+crz07_st0899_oct89 REDRAW CHART OF SOVIET UNION DECREASING LETTER SIZE TO EIGHTEEN 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0899_oct89 is -8.70323 over 419 frames.
+crz07_st0988_oct89 WHY WAS NASHUA+S ASW MISSION AREA DEGRADED OCTOBER TWENTY THIRD 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st0988_oct89 is -8.79444 over 523 frames.
+crz07_st1041_oct89 AREN+T STERETT TODAY 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1041_oct89 is -8.39096 over 182 frames.
+crz07_st1127_oct89 IS TUSCALOOSA+S FUEL CAPACITY LARGER THAN VANCOUVER+S 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1127_oct89 is -8.71817 over 362 frames.
+crz07_st1185_oct89 DO ANY SHIPS THAT ARE IN PACIFIC FLEET HAVE SPS-48 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1185_oct89 is -8.33207 over 450 frames.
+crz07_st1270_oct89 ARE FRIDAY+S PROBLEMS WORSE THAN TUESDAY+S FOR THE MISHAWAKA 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1270_oct89 is -8.9311 over 347 frames.
+crz07_st1346_oct89 GET CLEVELAND+S PROPULSION TYPE AND FUEL CAPACITIES 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1346_oct89 is -8.76191 over 335 frames.
+crz07_st1419_oct89 WHO HAD THE LOWEST AVERAGE C-RATING DURING LAST YEAR 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1419_oct89 is -8.80215 over 341 frames.
+crz07_st1474_oct89 HAS REEVES+S MIW MISSION AREA GONE TO M3 BEFORE EIGHTH AUGUST 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1474_oct89 is -8.73444 over 573 frames.
+crz07_st1548_oct89 DOES MONTICELLO HAVE LOWEST FUEL CAPACITY OF ALL BERING SEA FRIGATES 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1548_oct89 is -8.49984 over 452 frames.
+crz07_st1613_oct89 SHOW SWITCH SETTINGS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1613_oct89 is -8.38459 over 223 frames.
+crz07_st1707_oct89 GIVE FRIGATES THAT ARE IN INDIAN OCEAN AND THAT ARE M3 ON MIW 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1707_oct89 is -8.65323 over 493 frames.
+crz07_st1771_oct89 GIVE A LIST OF ANY TFCC CAPABLE SHIPS ARE C5 ON SUPPLIES 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1771_oct89 is -8.40286 over 599 frames.
+crz07_st1849_oct89 SHOW CHART OF WESTERN BRITISH SOLOMON ISLANDS WITH SAIL TOGGLED 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1849_oct89 is -8.53632 over 427 frames.
+LOG (apply-cmvn:main():apply-cmvn.cc:146) Applied cepstral mean normalization to 85 utterances, errors on 0
+crz07_st1923_oct89 ARE THERE TWO TACAN SHIPS WITH ECONOMIC SPEEDS NOT LESS THAN SEVENTEEN KNOTS 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st1923_oct89 is -8.35177 over 598 frames.
+crz07_st2003_oct89 DID ASUW MISSION AREA ON PLUNGER EVER GO TO M3 SEVENTEEN FEBRUARY 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st2003_oct89 is -8.63545 over 625 frames.
+crz07_st2077_oct89 IS THERE A REMARK ON WASP+S LATEST CASUALTY REPORT 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st2077_oct89 is -8.54308 over 386 frames.
+crz07_st2147_oct89 HOW MANY FRIGATES CHOPPED TO PACIFIC FLEET FROM ATLANTIC FLEET IN NINETEEN EIGHTY ONE 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st2147_oct89 is -8.68843 over 493 frames.
+crz07_st2204_oct89 HOW LONG WOULD IT TAKE MANHATTAN GET FROM KODIAK TO THE MIDWAY+S CURRENT POSITION 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance crz07_st2204_oct89 is -8.65152 over 502 frames.
+LOG (gmm-latgen-faster:main():gmm-latgen-faster.cc:176) Time taken 191.113s: real-time factor assuming 100 frames/sec is 0.630007
+LOG (gmm-latgen-faster:main():gmm-latgen-faster.cc:179) Done 85 utterances, failed for 0
+LOG (gmm-latgen-faster:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -8.50103 over 30335 frames.
+# Accounting: time=192 threads=1
+# Ended (code 0) at Sun Sep 11 01:01:38 PDT 2016, elapsed time 192 seconds

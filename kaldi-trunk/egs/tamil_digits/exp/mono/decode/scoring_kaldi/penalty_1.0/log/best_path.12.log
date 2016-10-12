@@ -1,0 +1,20 @@
+# lattice-scale --inv-acoustic-scale=12 "ark:gunzip -c exp/mono/decode/lat.*.gz|" ark:- | lattice-add-penalty --word-ins-penalty=1.0 ark:- ark:- | lattice-best-path --word-symbol-table=exp/mono/graph/words.txt ark:- ark,t:- | utils/int2sym.pl -f 2- exp/mono/graph/words.txt | cat > exp/mono/decode/scoring_kaldi/penalty_1.0/12.txt 
+# Started at Wed Sep 28 01:05:49 PDT 2016
+#
+lattice-best-path --word-symbol-table=exp/mono/graph/words.txt ark:- ark,t:- 
+lattice-scale --inv-acoustic-scale=12 'ark:gunzip -c exp/mono/decode/lat.*.gz|' ark:- 
+lattice-add-penalty --word-ins-penalty=1.0 ark:- ark:- 
+LOG (lattice-scale:main():lattice-scale.cc:90) Done 4 lattices.
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance raj_1_2_5, best cost 22.6768 + 3524.5 = 3547.18 over 478 frames.
+raj_1_2_5 ஒரு ஒன்பது 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance ranjini_1_2_3, best cost 30.2118 + 2355.69 = 2385.9 over 310 frames.
+ranjini_1_2_3 ஒரு இரண்டு மூன்று 
+LOG (lattice-add-penalty:main():lattice-add-penalty.cc:62) Done adding word insertion penalty to 4 lattices.
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance ranjini_22_23_24, best cost 42.6354 + 4305.17 = 4347.8 over 486 frames.
+ranjini_22_23_24 மூன்று ஐந்து மூன்று ஐந்து 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance sindhu_1_2_3, best cost 29.1876 + 2290.96 = 2320.14 over 294 frames.
+sindhu_1_2_3 ஒரு இரண்டு மூன்று 
+LOG (lattice-best-path:main():lattice-best-path.cc:124) Overall cost per frame is 8.03637 = 0.0795355 [graph] + 7.95683 [acoustic] over 1568 frames.
+LOG (lattice-best-path:main():lattice-best-path.cc:128) Done 4 lattices, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Wed Sep 28 01:05:49 PDT 2016, elapsed time 0 seconds

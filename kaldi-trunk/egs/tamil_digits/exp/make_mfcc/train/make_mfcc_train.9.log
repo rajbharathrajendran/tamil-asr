@@ -1,0 +1,10 @@
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/train/wav_train.9.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/data/train/data/raw_mfcc_train.9.ark,/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/data/train/data/raw_mfcc_train.9.scp 
+# Started at Wed Sep 28 00:54:48 PDT 2016
+#
+copy-feats --compress=true ark:- ark,scp:/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/data/train/data/raw_mfcc_train.9.ark,/home/rb/Documents/ICT/speech_recognition/kaldi-trunk/egs/digits/data/train/data/raw_mfcc_train.9.scp 
+compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/train/wav_train.9.scp ark:- 
+VLOG[2] (compute-mfcc-feats:main():compute-mfcc-feats.cc:178) Processed features for key sindhu_4_5_6
+LOG (compute-mfcc-feats:main():compute-mfcc-feats.cc:181)  Done 1 out of 1 utterances.
+LOG (copy-feats:main():copy-feats.cc:120) Copied 1 feature matrices.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Wed Sep 28 00:54:48 PDT 2016, elapsed time 0 seconds
