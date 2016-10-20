@@ -1,0 +1,5 @@
+<news>
+<headline>சென்னையில் விடியவிடிய 80 மி.மீ. மழை கொட்டியது:</headline>
+<description>
+தமிழகத்தில் இன்று மழை பெய்ய வாய்ப்பு</description>
+</news>

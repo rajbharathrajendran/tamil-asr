@@ -1,0 +1,5 @@
+<news>
+<headline>சினி.. மினி..</headline>
+<description>
+ </description>
+</news>
